@@ -38,14 +38,59 @@ public class Drone : MonoBehaviour
         {
             case DroneState.Wander:
             {
+                if (NeedsDestination())
+                {
+                    GetDestination();
+                }
+
+                transform.rotation = _desiredRotation;
+                transform.Translate(Vector3.forward * Time.deltaTime * 5f);
+
+                var rayColor = IsPathBlocked() ? Color.red : Color.green;
+                Debug.DrawRay(transform.position, _direction * _rayDistance, rayColor);
+
+                while (IsPathBlocked())
+                {
+                    Debug.Log("Path Blocked");
+                    GetDestination();
+                }
+
+                var targetToAggro = CheckForAggro();
+                if (targetToAggro != null)
+                {
+                    _target = targetToAggro.GetComponent<Drone>();
+                    _currentState = DroneState.Chase;
+                }
+
                 break;
             }
             case DroneState.Chase:
             {
+                if (_target == null)
+                {
+                    _currentState = DroneState.Wander;
+                    return;
+                }
+
+                transform.LookAt(_target.transform);
+                transform.Translate(Vector3.forward * Time.deltaTime * 5f);
+
+                if (Vector3.Distance(transform.position, _target.transform.position) < _attackRange)
+                {
+                    _currentState = DroneState.Attack;
+                }
                 break;
             }
             case DroneState.Attack:
             {
+                if (_target != null)
+                {
+                    Destroy(_target.gameObject);
+                }
+
+                // player laser beam
+
+                _currentState = DroneState.Wander;
                 break;
             }
         }
