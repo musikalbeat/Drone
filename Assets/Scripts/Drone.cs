@@ -6,7 +6,7 @@ using System.Linq;
 public enum Team
 {
     Blue,
-    Yellow
+    Red
 }
 
 public enum DroneState
