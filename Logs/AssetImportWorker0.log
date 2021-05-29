@@ -11878,3 +11878,1927 @@ Received Import Request.
 Start importing Assets/Arena.asset using Guid(d16f41fbc78c4da4a821380b4c092bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c7c6b47c731ecb27c7f3d9d7ea41c4') in 0.014273 seconds
   Import took 0.031844 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003637 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/AOT` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.collab-proxy@1.3.9/Lib/Editor/PlasticSCM` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Portable` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/AOT` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.collab-proxy@1.3.9/Lib/Editor/PlasticSCM` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Portable` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime` does not exist
+at <empty>:line 0
+
+VikingVillageUniversal_Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.5.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.5.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.5.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.814 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2863 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 217.6 MB.
+System memory in use after: 217.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3924.
+Total: 4.486200 ms (FindLiveObjects: 0.342200 ms CreateObjectMapping: 0.194200 ms MarkObjects: 3.512800 ms  DeleteObjects: 0.435700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002417 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/AOT` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.collab-proxy@1.3.9/Lib/Editor/PlasticSCM` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Portable` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/AOT` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.collab-proxy@1.3.9/Lib/Editor/PlasticSCM` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Portable` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime` does not exist
+at <empty>:line 0
+
+VikingVillageUniversal_Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.5.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.5.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.5.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.299 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2863 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 217.6 MB.
+System memory in use after: 217.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3927.
+Total: 5.052500 ms (FindLiveObjects: 0.483000 ms CreateObjectMapping: 0.308600 ms MarkObjects: 3.884700 ms  DeleteObjects: 0.374800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1072.688076 seconds.
+  path: Assets/Models/Viking Village/Textures
+  artifactKey: Guid(d10685a5aa27948269205dc61b07feb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures using Guid(d10685a5aa27948269205dc61b07feb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b26148f3838fe21c8e7a8d0748c7aac3') in 0.009320 seconds
+  Import took 0.016570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068612 seconds.
+  path: Assets/Models/Viking Village/Textures/midgrey.tif
+  artifactKey: Guid(37cc52a2055f6934dad950c330a3ac79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/midgrey.tif using Guid(37cc52a2055f6934dad950c330a3ac79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ab1bc27b2d793cefce906edb9a5e374') in 0.107191 seconds
+  Import took 0.122620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_tiled_02_rotated_a.tif
+  artifactKey: Guid(b071f5ad21e70ed4cb9486ba504fa7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_tiled_02_rotated_a.tif using Guid(b071f5ad21e70ed4cb9486ba504fa7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01b25a3bb7ec60b39d0cd43b16d463c0') in 0.089388 seconds
+  Import took 0.097042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Models/Viking Village/Textures/SunTemp.tif
+  artifactKey: Guid(0e70d29ea31de4b81979297e8d5756f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/SunTemp.tif using Guid(0e70d29ea31de4b81979297e8d5756f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb897a33ecd4d7677ef69758d4e53a9') in 0.045361 seconds
+  Import took 0.051056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_tiled_03_n.tif
+  artifactKey: Guid(596b33ebc0887e74f8a8eb312c28ca7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_tiled_03_n.tif using Guid(596b33ebc0887e74f8a8eb312c28ca7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '345795069451126cf5f438735b06e19c') in 0.155932 seconds
+  Import took 0.162610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_tiled_02_rotated_n.tif
+  artifactKey: Guid(6815f51831293bb4cafe887a09e93c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_tiled_02_rotated_n.tif using Guid(6815f51831293bb4cafe887a09e93c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8183abe0f438b8577de023acdd06f3d1') in 0.144438 seconds
+  Import took 0.188458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000676 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_tiled_02_a.tif
+  artifactKey: Guid(69c23a9535a4c2143bdfda7b563b993a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_tiled_02_a.tif using Guid(69c23a9535a4c2143bdfda7b563b993a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19678c283bfd192a69b560c1358d23d') in 0.076306 seconds
+  Import took 0.082213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_d.tif
+  artifactKey: Guid(a40faa3a9f847e349a5101d9964f41a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_d.tif using Guid(a40faa3a9f847e349a5101d9964f41a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64451fac150ba648e20540326894ae3c') in 0.090318 seconds
+  Import took 0.112032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_tiled_01_a.tif
+  artifactKey: Guid(528aee0a16384f94f879a24aab933a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_tiled_01_a.tif using Guid(528aee0a16384f94f879a24aab933a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b31da694e94efebce91e222800a3feb3') in 0.121034 seconds
+  Import took 0.128936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000699 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_tiled_03_a.tif
+  artifactKey: Guid(a0fff3e053e70494ba9c91d152aeffa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_tiled_03_a.tif using Guid(a0fff3e053e70494ba9c91d152aeffa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad77f7b3c5db25fe236aab334c42d83f') in 0.173141 seconds
+  Import took 0.181451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000605 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_tiled_01_n.tif
+  artifactKey: Guid(9201c728a49924940a25defbfc35ad87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_tiled_01_n.tif using Guid(9201c728a49924940a25defbfc35ad87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e8dd3a746bc4833060452d36920b6e') in 0.307502 seconds
+  Import took 0.430459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_tiled_03_o.tif
+  artifactKey: Guid(dbecf1615df1f4b4db1c8e05461a8386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_tiled_03_o.tif using Guid(dbecf1615df1f4b4db1c8e05461a8386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a4d2c384ef7ed219e89da7f769296c') in 0.103021 seconds
+  Import took 0.113512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_n.tif
+  artifactKey: Guid(43635ddb510623846a23745c53c02fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_n.tif using Guid(43635ddb510623846a23745c53c02fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dd9f43121de01654d20cb90ede19038') in 0.106259 seconds
+  Import took 0.112189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_tiled_02_o.tif
+  artifactKey: Guid(cda04cf139859604badb70af62700f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_tiled_02_o.tif using Guid(cda04cf139859604badb70af62700f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd47b21180f368d013e9ce97ba5688218') in 0.143794 seconds
+  Import took 0.150929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_tiled_02_n.tif
+  artifactKey: Guid(017469a3ea9ca3e4ea89e14f79a6e221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_tiled_02_n.tif using Guid(017469a3ea9ca3e4ea89e14f79a6e221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b369b4076692a9d4ad0fdb651e21a8') in 0.291800 seconds
+  Import took 0.299545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.563560 seconds.
+  path: Assets/Models/Viking Village/Textures/Buildings
+  artifactKey: Guid(2ff3ac75027c94dbba384fcae23e6466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/Buildings using Guid(2ff3ac75027c94dbba384fcae23e6466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61d89015561e0209318876474da8de31') in 0.004181 seconds
+  Import took 0.025986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 601.984415 seconds.
+  path: Assets/Models/Viking Village/Textures/wood_tiled_01_n.tif
+  artifactKey: Guid(9201c728a49924940a25defbfc35ad87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Textures/wood_tiled_01_n.tif using Guid(9201c728a49924940a25defbfc35ad87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1b34ed135ba95534f55fdb63dd7b5f7') in 11.261517 seconds
+  Import took 17.043859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.367814 seconds.
+  path: Assets/Models/Viking Village/Prefabs
+  artifactKey: Guid(4e7bce93a136b473c98a7b3149d058db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs using Guid(4e7bce93a136b473c98a7b3149d058db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd23522ae0ff09303ebd499e4aec8db49') in 0.006645 seconds
+  Import took 0.044359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.125645 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings
+  artifactKey: Guid(502d954198fb44995b0bfdcf26ceae45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings using Guid(502d954198fb44995b0bfdcf26ceae45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '171f34b5ae5f44ee33473bda23dacee0') in 0.044956 seconds
+  Import took 0.083929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002363 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_barracks_01.prefab
+  artifactKey: Guid(1d0aee27deb036444829b22bc0242535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_barracks_01.prefab using Guid(1d0aee27deb036444829b22bc0242535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c24900786d3f9f6b78391af7e97069') in 4.750810 seconds
+  Import took 4.829674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073277 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_gate_01.prefab
+  artifactKey: Guid(18943e248bf020344bc794f906887d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_gate_01.prefab using Guid(18943e248bf020344bc794f906887d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a261cd6af211570e0cdae2b0a44b752c') in 4.655568 seconds
+  Import took 4.679558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046237 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_storage_01_low.prefab
+  artifactKey: Guid(37dc537f9c97a4e2da4ed1db66d93027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_storage_01_low.prefab using Guid(37dc537f9c97a4e2da4ed1db66d93027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c50526825cfd2aa3a61cc9189fba43e') in 3.458635 seconds
+  Import took 3.490077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_wall_panel_01_low.prefab
+  artifactKey: Guid(1a9b869f36382405dbece3abfcc300e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_wall_panel_01_low.prefab using Guid(1a9b869f36382405dbece3abfcc300e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49192ce4662f4fa6e0686f26b2bb0e85') in 0.334480 seconds
+  Import took 0.358773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_bighouse_01_low.prefab
+  artifactKey: Guid(c88a82a8fcb80473aba9e5b2adc219bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_bighouse_01_low.prefab using Guid(c88a82a8fcb80473aba9e5b2adc219bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92cb5377066af222c34e9311ad3e6b43') in 0.269142 seconds
+  Import took 0.287513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001136 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_small_house_straw_roof_01.prefab
+  artifactKey: Guid(edc187f9f9ba43449800751ee6d59cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_small_house_straw_roof_01.prefab using Guid(edc187f9f9ba43449800751ee6d59cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37359e5c95f66e62ad31ca446237edf9') in 0.154811 seconds
+  Import took 0.170902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_crane_01.prefab
+  artifactKey: Guid(bfffe6f87b5561b4bbb7e7bedc02ded6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_crane_01.prefab using Guid(bfffe6f87b5561b4bbb7e7bedc02ded6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a98057a1ccf1dfdbbca0072ea1096250') in 1.554546 seconds
+  Import took 1.562955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000640 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_wall_corner_01_low.prefab
+  artifactKey: Guid(4d51fa5371c104fa3a40e7dac7029cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_wall_corner_01_low.prefab using Guid(4d51fa5371c104fa3a40e7dac7029cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a01546fb29632b90277ce652588fa3') in 0.135326 seconds
+  Import took 0.146768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001026 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_blacksmith_01_low.prefab
+  artifactKey: Guid(220e5cfcabcb541ec8aef9ccf5d65f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_blacksmith_01_low.prefab using Guid(220e5cfcabcb541ec8aef9ccf5d65f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e552657cd8035a1feadf65236af950') in 0.223263 seconds
+  Import took 0.245631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_wall_panel_01.prefab
+  artifactKey: Guid(9c17d66b88dfce54d99d6710ec954c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_wall_panel_01.prefab using Guid(9c17d66b88dfce54d99d6710ec954c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628ffa150d1d5459d7fe61dfc2880903') in 0.085068 seconds
+  Import took 0.095026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000757 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_boat_01.prefab
+  artifactKey: Guid(9db523a33d0f62640bdac852a07d15c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_boat_01.prefab using Guid(9db523a33d0f62640bdac852a07d15c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd935834e2d5cd23705ab9c8009a600cc') in 0.432322 seconds
+  Import took 0.471787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_storage_01.prefab
+  artifactKey: Guid(9ac557bbc39bdda4ab5d844355cdb201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_storage_01.prefab using Guid(9ac557bbc39bdda4ab5d844355cdb201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8d1cb4922da954d2c4682d557fbf95') in 0.244397 seconds
+  Import took 0.269074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_barracks_single_01_low.prefab
+  artifactKey: Guid(3b0ae94f56513451998309682eda6ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_barracks_single_01_low.prefab using Guid(3b0ae94f56513451998309682eda6ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '411e0f7b8dd8410620fb66ea086dd114') in 0.157055 seconds
+  Import took 0.173524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_small_house_straw_roof_01_low.prefab
+  artifactKey: Guid(0fa8ae06071aa4116b04de402f7ad8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_small_house_straw_roof_01_low.prefab using Guid(0fa8ae06071aa4116b04de402f7ad8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ca15ce0286da252c557a12ad65ce51') in 0.197731 seconds
+  Import took 0.219647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_bighouse_02.prefab
+  artifactKey: Guid(1134317543a4d0949af5a6b78ad8e9c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_bighouse_02.prefab using Guid(1134317543a4d0949af5a6b78ad8e9c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a6f5cb2b67fa4ac3db8b2dc9fb084a') in 0.232998 seconds
+  Import took 0.269509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_barracks_01_low.prefab
+  artifactKey: Guid(13f0811189d1948778ffb21c30f136be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_barracks_01_low.prefab using Guid(13f0811189d1948778ffb21c30f136be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249317c80e279df4b2d575b128de5049') in 0.153327 seconds
+  Import took 0.169503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_barracks_single_01.prefab
+  artifactKey: Guid(15a4be37a8517f94abaf3ad28701434e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_barracks_single_01.prefab using Guid(15a4be37a8517f94abaf3ad28701434e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a47b909f11e316685ac2e2fbe446d1') in 0.117330 seconds
+  Import took 0.131459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000728 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_small_house_tall_roof_01.prefab
+  artifactKey: Guid(ad3f867a742ace24b9e09aa4c6cfe7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_small_house_tall_roof_01.prefab using Guid(ad3f867a742ace24b9e09aa4c6cfe7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717794236cfa2fcbdb747dbfcc0531ee') in 0.210814 seconds
+  Import took 0.227091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_bighouse_01.prefab
+  artifactKey: Guid(70b1cc9351b9b644f8490dc82ba9ec50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_bighouse_01.prefab using Guid(70b1cc9351b9b644f8490dc82ba9ec50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8350a5534ba739e5da6fb57dc7fa7c7') in 0.207163 seconds
+  Import took 0.236296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_small_house_tall_roof_01_low.prefab
+  artifactKey: Guid(74071dc1a3203474f90200f88c0b93bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_small_house_tall_roof_01_low.prefab using Guid(74071dc1a3203474f90200f88c0b93bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '359942cf828b375bb10797fcf626e400') in 0.174948 seconds
+  Import took 0.188653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_boat_02.prefab
+  artifactKey: Guid(637d36d5cd3ab194e9614570eb8d48a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_boat_02.prefab using Guid(637d36d5cd3ab194e9614570eb8d48a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39d68ea28bb53079e7e4312d4e89b95b') in 0.206567 seconds
+  Import took 0.218852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_big_storage_01.prefab
+  artifactKey: Guid(0b6b9334267df6640933e6446a286d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_big_storage_01.prefab using Guid(0b6b9334267df6640933e6446a286d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab175e8c367ff16c9e264b87c69a9df3') in 0.249571 seconds
+  Import took 0.277603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001326 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_boat_02_low.prefab
+  artifactKey: Guid(f90d84c1f9f00493d8c03970109a41c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_boat_02_low.prefab using Guid(f90d84c1f9f00493d8c03970109a41c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50040beb553eaf134e9c28891686ba49') in 0.128816 seconds
+  Import took 0.157486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_wall_corner_01.prefab
+  artifactKey: Guid(54c5a00fc75fc854ca53900fe513f638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_wall_corner_01.prefab using Guid(54c5a00fc75fc854ca53900fe513f638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b416c7bd7d5fe9053b1b949f8f0bcdb3') in 0.078665 seconds
+  Import took 0.088800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_tower_01.prefab
+  artifactKey: Guid(43b1e32e7fce60a4bb13ea61ae8e33f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_tower_01.prefab using Guid(43b1e32e7fce60a4bb13ea61ae8e33f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dad720330649bafb43fd36e930c1057') in 0.779088 seconds
+  Import took 0.791148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_small_house_01.prefab
+  artifactKey: Guid(3c8ce989a89bfce4da004b17f42d7298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_small_house_01.prefab using Guid(3c8ce989a89bfce4da004b17f42d7298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d1081141551b162a3f159ed0e09290') in 0.136762 seconds
+  Import took 0.149915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_small_house_01_low.prefab
+  artifactKey: Guid(46872250ac6d442acacd5a2429ee0139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_small_house_01_low.prefab using Guid(46872250ac6d442acacd5a2429ee0139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a41f79a0ff1fa3b29db322535f1bc93') in 0.128735 seconds
+  Import took 0.141750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000641 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_blacksmith_01.prefab
+  artifactKey: Guid(4888fbdd6a6d4a7449a47ce78e5e1d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_blacksmith_01.prefab using Guid(4888fbdd6a6d4a7449a47ce78e5e1d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b80ee99ee5ca5cc6ce76c98b810dcad') in 0.324346 seconds
+  Import took 0.343653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_bighouse_02_low.prefab
+  artifactKey: Guid(2debdcfa240f34ff99146b771a64f1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_bighouse_02_low.prefab using Guid(2debdcfa240f34ff99146b771a64f1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8700a7fce5af2e3e3d800023a40f116') in 0.183291 seconds
+  Import took 0.219061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_big_storage_01_low.prefab
+  artifactKey: Guid(a61c7e96268d14880bb2287b95422794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_big_storage_01_low.prefab using Guid(a61c7e96268d14880bb2287b95422794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60bb2ae16b35cb7b018e8d7762c5d73') in 0.237758 seconds
+  Import took 0.257424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_boat_01_low.prefab
+  artifactKey: Guid(285c732fbaf5e462d854e5faf82a6890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_boat_01_low.prefab using Guid(285c732fbaf5e462d854e5faf82a6890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cac5ed0f6833d3171b10f8e0040bd7c') in 0.087476 seconds
+  Import took 0.100939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Buildings/pf_build_dragonhead_01.prefab
+  artifactKey: Guid(4ed8f09cf12ff4bce84dec4f42ebec0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Buildings/pf_build_dragonhead_01.prefab using Guid(4ed8f09cf12ff4bce84dec4f42ebec0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e223a7af80d7a42854cc941aaa40206') in 0.063117 seconds
+  Import took 0.079307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 256.191150 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs
+  artifactKey: Guid(023a8387b554a644caaaf1cb72c8c561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs using Guid(023a8387b554a644caaaf1cb72c8c561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '868f420fef511d23a106556f04fe4c5c') in 0.008986 seconds
+  Import took 0.019329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066464 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Building.prefab
+  artifactKey: Guid(842db95f600b38a4a936ac0db6ded7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Building.prefab using Guid(842db95f600b38a4a936ac0db6ded7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84257b64c83f654cc5c5097ea59e839') in 9.580252 seconds
+  Import took 9.651342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Foliage_Fern_Large.prefab
+  artifactKey: Guid(2fc687804e64b5143a99ccd10efc0aef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Foliage_Fern_Large.prefab using Guid(2fc687804e64b5143a99ccd10efc0aef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '326c783efd9175b9a4f02b81863cb4a0') in 0.038009 seconds
+  Import took 0.046143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Assembly_Rock_C.prefab
+  artifactKey: Guid(db72df50bbb555a43900bdc3ec5da828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Assembly_Rock_C.prefab using Guid(db72df50bbb555a43900bdc3ec5da828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e8c8da558ca25ba9cbfb0cc17ac3437') in 0.081906 seconds
+  Import took 0.113060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Masonary_DoorOrnate.prefab
+  artifactKey: Guid(172885ec894ac6943a32bacc544dc1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Masonary_DoorOrnate.prefab using Guid(172885ec894ac6943a32bacc544dc1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c58eb2803d7a77fe3f221b802e253bd') in 0.068602 seconds
+  Import took 0.081601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_IronFixtures_Chimney.prefab
+  artifactKey: Guid(2bb7e515ee1cc04419f64a1dee211c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_IronFixtures_Chimney.prefab using Guid(2bb7e515ee1cc04419f64a1dee211c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '017417136501c89092e2747bd066e8f7') in 0.068887 seconds
+  Import took 0.083850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Door_CurvedShort.prefab
+  artifactKey: Guid(822a0e80f0ca33846a3e362e3fcfbd64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Door_CurvedShort.prefab using Guid(822a0e80f0ca33846a3e362e3fcfbd64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5ac48b7698c8a0bdfc4f5dfa5812e3') in 0.087352 seconds
+  Import took 0.100015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Chimney_Small.prefab
+  artifactKey: Guid(a2c0c3aca65defd4d9d259916215d53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Chimney_Small.prefab using Guid(a2c0c3aca65defd4d9d259916215d53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73ffb0688e011cab32f8fa44d448c1c5') in 0.180989 seconds
+  Import took 0.200121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_StoneFloor_E.prefab
+  artifactKey: Guid(a239ca202f1aad64e8e12ebac4d72e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_StoneFloor_E.prefab using Guid(a239ca202f1aad64e8e12ebac4d72e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eac48fa099623ae0cc0bb11384d6ccb') in 0.061898 seconds
+  Import took 0.070023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_StoneFloor_D.prefab
+  artifactKey: Guid(eaae9a6a3196bae43acfc050c95531f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_StoneFloor_D.prefab using Guid(eaae9a6a3196bae43acfc050c95531f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '147da96934b794b68e4a44bfa9eaeb09') in 0.060497 seconds
+  Import took 0.069791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000652 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_PlasterWalls_A_Cross.prefab
+  artifactKey: Guid(f7f981d6350c24441a90ff4a69ba41f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_PlasterWalls_A_Cross.prefab using Guid(f7f981d6350c24441a90ff4a69ba41f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c0681b3c8565dad2b823e5ad861975') in 0.092791 seconds
+  Import took 0.124251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Chimney_Small_Half.prefab
+  artifactKey: Guid(7ca0fafb1b9a9c14e8754aac43326428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Chimney_Small_Half.prefab using Guid(7ca0fafb1b9a9c14e8754aac43326428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4718d2a1f2a6ee2550bd157424b9de') in 0.179113 seconds
+  Import took 0.201333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Platforms_Planks.prefab
+  artifactKey: Guid(80e227181979b9e4db071f4a8ea5eca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Platforms_Planks.prefab using Guid(80e227181979b9e4db071f4a8ea5eca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '459af88575a3475843c35bad44c8b8d4') in 0.179831 seconds
+  Import took 0.199639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000730 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_RoofTiles_TopCorner.prefab
+  artifactKey: Guid(ed0cc678f4a6ecf4d8eaa0b55b102276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_RoofTiles_TopCorner.prefab using Guid(ed0cc678f4a6ecf4d8eaa0b55b102276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd33b44e387e124b33aa677f5d572f88a') in 0.066348 seconds
+  Import took 0.086027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_IronFixtures_ArowRailing_Long.prefab
+  artifactKey: Guid(e490792a65283574e9fcdd778cba9216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_IronFixtures_ArowRailing_Long.prefab using Guid(e490792a65283574e9fcdd778cba9216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7c7296acb16aacb2a635cf43e77939a') in 0.091993 seconds
+  Import took 0.102375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Platforms_LoosePlank_01.prefab
+  artifactKey: Guid(7759a90c8114eae4cb2d199edb240ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Platforms_LoosePlank_01.prefab using Guid(7759a90c8114eae4cb2d199edb240ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca3ad865fe6d5a268ef39eb23140fc6c') in 0.162212 seconds
+  Import took 0.204101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Foliage_IvyVines_ShortHoz.prefab
+  artifactKey: Guid(e7e4c40bc12a44e48bdf2f88608e3bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Foliage_IvyVines_ShortHoz.prefab using Guid(e7e4c40bc12a44e48bdf2f88608e3bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c3fbdb8f397c212a88ebe7a04f19fb5') in 0.037018 seconds
+  Import took 0.043792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_IronFixtures_Knocker.prefab
+  artifactKey: Guid(26bfb65058911384596a4a79f7d00b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_IronFixtures_Knocker.prefab using Guid(26bfb65058911384596a4a79f7d00b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98edd1a9604678234154fea837dc64b3') in 0.058702 seconds
+  Import took 0.072709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Platforms_LoosePlank_02.prefab
+  artifactKey: Guid(adc2e4da70380af439406b6eaeb74eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Platforms_LoosePlank_02.prefab using Guid(adc2e4da70380af439406b6eaeb74eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c24788086d9292b11f55c2052ff6698') in 0.172655 seconds
+  Import took 0.192364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Platforms_PlanksNailed.prefab
+  artifactKey: Guid(2f06573bc73b7f44298777eaf2f0b500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Platforms_PlanksNailed.prefab using Guid(2f06573bc73b7f44298777eaf2f0b500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7318dd8b093d9dd4f8c35952b0620c62') in 0.162417 seconds
+  Import took 0.184306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Masonary_WoodLarge_StrongSupportColumn.prefab
+  artifactKey: Guid(b9cd7dc36e88f1142a32d9e5ef9b075e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Masonary_WoodLarge_StrongSupportColumn.prefab using Guid(b9cd7dc36e88f1142a32d9e5ef9b075e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2784bfbec47c13849ec7c2040a91da6') in 0.065253 seconds
+  Import took 0.077140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000599 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Foliage_IvyVines_EdgeOver.prefab
+  artifactKey: Guid(e8aaf15a87a4dcc4db8b2d112dbdbb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Foliage_IvyVines_EdgeOver.prefab using Guid(e8aaf15a87a4dcc4db8b2d112dbdbb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af800aa6271083c92cea558ee0efed8c') in 0.053223 seconds
+  Import took 0.065228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_RoofWall_MedA.prefab
+  artifactKey: Guid(2579dcb3997c2c04d8effeae9e6b4622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_RoofWall_MedA.prefab using Guid(2579dcb3997c2c04d8effeae9e6b4622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7c1bffda438a2469e8fbd9a4e3b567') in 0.062380 seconds
+  Import took 0.074600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Masonary_StepsPlatform_Cropped.prefab
+  artifactKey: Guid(9a4f528c735ef2344b3af2205cb00aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Masonary_StepsPlatform_Cropped.prefab using Guid(9a4f528c735ef2344b3af2205cb00aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea20a54796372ab5190df3f0ee9eef31') in 0.071632 seconds
+  Import took 0.085269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000620 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_IronFixtures_Armature.prefab
+  artifactKey: Guid(994f56b5570aa7b4092221701ace4871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_IronFixtures_Armature.prefab using Guid(994f56b5570aa7b4092221701ace4871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf063cd75b8a4a4b826ea7a472436942') in 0.072899 seconds
+  Import took 0.083916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_PlasterWalls_B_MasonaryWall.prefab
+  artifactKey: Guid(f26fdd3a6ffca7c42859493a30a8b5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_PlasterWalls_B_MasonaryWall.prefab using Guid(f26fdd3a6ffca7c42859493a30a8b5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0da821e7777f5ec8231fb8c2920355b8') in 0.078162 seconds
+  Import took 0.089711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_IronFixtures_LargeTorch.prefab
+  artifactKey: Guid(76ed53cf51b84f1468d46e92197bf9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_IronFixtures_LargeTorch.prefab using Guid(76ed53cf51b84f1468d46e92197bf9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5264ee8c3ca3fb0424a8c423207beacf') in 0.073131 seconds
+  Import took 0.092878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000522 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Medieval_Masonary_Foundations_CornerOut_01.prefab
+  artifactKey: Guid(0da81c73b5cf5a148985c27563330ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Medieval_Masonary_Foundations_CornerOut_01.prefab using Guid(0da81c73b5cf5a148985c27563330ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '339f53aa90adba4e4626e820636e18f9') in 0.274702 seconds
+  Import took 0.298403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.022804 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props
+  artifactKey: Guid(1619e56d2810c41cf97c2a3eaad4c69e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props using Guid(1619e56d2810c41cf97c2a3eaad4c69e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b533e56c0b4b538e18162671d147c661') in 0.014548 seconds
+  Import took 0.021900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077980 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_barrel_01.prefab
+  artifactKey: Guid(ddfd4e07d34580a4e89ee5d0f094307d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_barrel_01.prefab using Guid(ddfd4e07d34580a4e89ee5d0f094307d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f2450b020bf2706025953fdf243dad') in 0.401066 seconds
+  Import took 0.430144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_fence_01_double.prefab
+  artifactKey: Guid(603ea43a3fd07dd4791e66d65ffb7eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_fence_01_double.prefab using Guid(603ea43a3fd07dd4791e66d65ffb7eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38880693522e5d157eb2871380c3ee9f') in 0.094816 seconds
+  Import took 0.112862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_buckets_01.prefab
+  artifactKey: Guid(6e2eab48a2a561b4fa3c068ad21b25fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_buckets_01.prefab using Guid(6e2eab48a2a561b4fa3c068ad21b25fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '094e57ee186971282f9c6a841f77cfa5') in 0.291705 seconds
+  Import took 0.309239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_plank_01.prefab
+  artifactKey: Guid(67bdb793a7c824e488c31e62b27fefe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_plank_01.prefab using Guid(67bdb793a7c824e488c31e62b27fefe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bedf6bba927b722e957a1ea14267649') in 0.083935 seconds
+  Import took 0.095425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000916 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_fence_02_double.prefab
+  artifactKey: Guid(e1729a2aca9e75b40a8d30f1bc127a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_fence_02_double.prefab using Guid(e1729a2aca9e75b40a8d30f1bc127a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b49a0499045d36b5a7287b5f41f0210') in 0.070649 seconds
+  Import took 0.079391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_pillar_05.prefab
+  artifactKey: Guid(31ff1d9c660717640aa75c9feef614cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_pillar_05.prefab using Guid(31ff1d9c660717640aa75c9feef614cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20a7935bf6130077fbd28c55a29b0371') in 0.073541 seconds
+  Import took 0.100706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_boulder_02_015.prefab
+  artifactKey: Guid(b6286938954000e4bad9aeb93ef3ca30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_boulder_02_015.prefab using Guid(b6286938954000e4bad9aeb93ef3ca30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '093efda902f5bd70509508b08f1df6b8') in 0.183419 seconds
+  Import took 0.189859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001462 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_scaffold_01.prefab
+  artifactKey: Guid(96277ceebc5377447aa2d5d5795d7c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_scaffold_01.prefab using Guid(96277ceebc5377447aa2d5d5795d7c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18bc645eb59abb3a3b6097e92331b050') in 0.050728 seconds
+  Import took 0.077102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_logpile_01.prefab
+  artifactKey: Guid(0d998acdcb880824e92697c2f3ee2147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_logpile_01.prefab using Guid(0d998acdcb880824e92697c2f3ee2147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '181aa28813bd0f6c0e3626dcc30b7eef') in 0.114499 seconds
+  Import took 0.122471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_shield_02.prefab
+  artifactKey: Guid(ca7d05657eae50d4ca6ca915f5af11bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_shield_02.prefab using Guid(ca7d05657eae50d4ca6ca915f5af11bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2bfb637270f6afe0bf4527c47f62435') in 0.402532 seconds
+  Import took 0.428574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_bucket_01.prefab
+  artifactKey: Guid(7d9c77d98015e434794b39fe550f0c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_bucket_01.prefab using Guid(7d9c77d98015e434794b39fe550f0c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8198ee1e1add652c38877c3b9ac9566b') in 0.076350 seconds
+  Import took 0.085630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000660 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_rune_01.prefab
+  artifactKey: Guid(c24559634a7c3084ab1129880c447f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_rune_01.prefab using Guid(c24559634a7c3084ab1129880c447f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3536960354993863c168bfc0456ed85') in 0.315776 seconds
+  Import took 0.323444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_shield_01.prefab
+  artifactKey: Guid(6444e796ec18c4a4eb555f26a837c446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_shield_01.prefab using Guid(6444e796ec18c4a4eb555f26a837c446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8734253e5c914b053284966d71aadf7d') in 0.089833 seconds
+  Import took 0.115921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_boulder_01.prefab
+  artifactKey: Guid(f8c4dfd0234dcd1479f34df46631187e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_boulder_01.prefab using Guid(f8c4dfd0234dcd1479f34df46631187e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43042cf934b7ee8d7e1ecd4a541c0527') in 0.053385 seconds
+  Import took 0.060920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_barrel_fish_01.prefab
+  artifactKey: Guid(952a93a9712cdd94181dad00edf409ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_barrel_fish_01.prefab using Guid(952a93a9712cdd94181dad00edf409ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b87524c6636aa8a06b2e9a3f761a3c') in 0.874365 seconds
+  Import took 0.880597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000723 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_fence_01_tripple.prefab
+  artifactKey: Guid(97376cbb8409f4c499850018c6d6ad5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_fence_01_tripple.prefab using Guid(97376cbb8409f4c499850018c6d6ad5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceaf3ac81eef1e33625bb21465d9cd8e') in 0.084234 seconds
+  Import took 0.092220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_barrels_01.prefab
+  artifactKey: Guid(a5c7299f41b189149aaf8fb6f10a66f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_barrels_01.prefab using Guid(a5c7299f41b189149aaf8fb6f10a66f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb7add3807882f068533b468a74624c') in 0.077796 seconds
+  Import took 0.085170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_pillar_03.prefab
+  artifactKey: Guid(c6bbb3230e1a45e4aa718394dfbd3d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_pillar_03.prefab using Guid(c6bbb3230e1a45e4aa718394dfbd3d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8fe965d2a8536a20301e038969d966') in 0.053667 seconds
+  Import took 0.073164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_plank_03.prefab
+  artifactKey: Guid(f2d384aeb0cfba64abc6fb0ac1f1fe2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_plank_03.prefab using Guid(f2d384aeb0cfba64abc6fb0ac1f1fe2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ccdd12ad4bf9defe8a090b2e4fb6de5') in 0.063152 seconds
+  Import took 0.083583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_plankpile_03.prefab
+  artifactKey: Guid(3654c36da02dfba48a59318cc2e13fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_plankpile_03.prefab using Guid(3654c36da02dfba48a59318cc2e13fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '391e927d9021f740a037ac61d535ffbe') in 0.062643 seconds
+  Import took 0.070307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_plankpath_01.prefab
+  artifactKey: Guid(f6a84f9400019460e81fb3b752b1fe05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_plankpath_01.prefab using Guid(f6a84f9400019460e81fb3b752b1fe05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3719272636c16b3599a2ecd37007d3b') in 0.070217 seconds
+  Import took 0.079308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_pillar_06.prefab
+  artifactKey: Guid(49807b7f8bf295e45a441f086be26404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_pillar_06.prefab using Guid(49807b7f8bf295e45a441f086be26404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f9ac32d9d44aa9e45c8e70cbe55cee') in 0.102421 seconds
+  Import took 0.110290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_plankpile_02.prefab
+  artifactKey: Guid(2af98167059b156448280a0f6b0973f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_plankpile_02.prefab using Guid(2af98167059b156448280a0f6b0973f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8633b7da2a6d33191248fe48ab7b82e1') in 0.074486 seconds
+  Import took 0.083278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_fish_01.prefab
+  artifactKey: Guid(e352a0bf65a863a44ba77918c8dc7b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_fish_01.prefab using Guid(e352a0bf65a863a44ba77918c8dc7b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab0007a56790567f68f8e503c8003772') in 0.031768 seconds
+  Import took 0.040037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_boulder_01_040.prefab
+  artifactKey: Guid(04e0ab4312f682f439b88c86a65672e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_boulder_01_040.prefab using Guid(04e0ab4312f682f439b88c86a65672e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88793e42c26682d0275e0f596275af13') in 0.036880 seconds
+  Import took 0.045164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_plank_02.prefab
+  artifactKey: Guid(b14e561f096a50c47814a074c9a7a49a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_plank_02.prefab using Guid(b14e561f096a50c47814a074c9a7a49a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f0d852d85e5c82f4caef04d24ef071a') in 0.071231 seconds
+  Import took 0.080394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_plankpile_01.prefab
+  artifactKey: Guid(711ab6f8d7771154f9b776bdec2a8c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_plankpile_01.prefab using Guid(711ab6f8d7771154f9b776bdec2a8c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd79986bcad42c272594a0e8c893ca9e0') in 0.064076 seconds
+  Import took 0.071923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000737 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_halberd_01.prefab
+  artifactKey: Guid(614b7cfa52f61cc4783db4d501382de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_halberd_01.prefab using Guid(614b7cfa52f61cc4783db4d501382de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5705daf6243f7d7af11b550ee379600a') in 0.374539 seconds
+  Import took 0.382117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_boulder_01_150.prefab
+  artifactKey: Guid(b375698b498496640b77976be04ec05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_boulder_01_150.prefab using Guid(b375698b498496640b77976be04ec05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb3e26f08cafd53da239920c45e2c3e') in 0.034500 seconds
+  Import took 0.041211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_boulder_02_025.prefab
+  artifactKey: Guid(4b4cdb55dada4b84290580ec632b39b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_boulder_02_025.prefab using Guid(4b4cdb55dada4b84290580ec632b39b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c2a33cb1f99cbb075cd07dec20d6a60') in 0.030691 seconds
+  Import took 0.038775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_menhir_02.prefab
+  artifactKey: Guid(bc3799c9e43eb1a459c27efbe1f8ae0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_menhir_02.prefab using Guid(bc3799c9e43eb1a459c27efbe1f8ae0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddfb32486da17115ceae3113e0ad0519') in 0.242340 seconds
+  Import took 0.257898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_menhir_01.prefab
+  artifactKey: Guid(3b10ef2caf2292d4e99442a9682de863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_menhir_01.prefab using Guid(3b10ef2caf2292d4e99442a9682de863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ce906aa7553355d0cbaf2acbc14f9a') in 0.032905 seconds
+  Import took 0.040015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_fish_stick_01.prefab
+  artifactKey: Guid(072505922f033704ab12cd65eb124d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_fish_stick_01.prefab using Guid(072505922f033704ab12cd65eb124d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '979e0b363e8ce2e9c92449a22e9344d7') in 0.052009 seconds
+  Import took 0.059756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_fence_01.prefab
+  artifactKey: Guid(60632b040551069419e2002a35487752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_fence_01.prefab using Guid(60632b040551069419e2002a35487752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '694a5d3b42c08aeefb8f8490311cfed9') in 0.092242 seconds
+  Import took 0.115015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_fence_02.prefab
+  artifactKey: Guid(7b254f559af8e2a4a8926fde2063b21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_fence_02.prefab using Guid(7b254f559af8e2a4a8926fde2063b21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61d8183dacc2a0728343522d0a20dd6') in 0.067102 seconds
+  Import took 0.095834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_shield_03.prefab
+  artifactKey: Guid(3ccf2bc3f937d3649a1d2b0aeb03ba51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_shield_03.prefab using Guid(3ccf2bc3f937d3649a1d2b0aeb03ba51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df40d4876c02f7b7c1636521a70292e4') in 0.367934 seconds
+  Import took 0.376481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_barrels_02.prefab
+  artifactKey: Guid(133a470f6120d434a8130695b367784a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_barrels_02.prefab using Guid(133a470f6120d434a8130695b367784a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58d583ff247e06612a48516c3184069') in 0.107901 seconds
+  Import took 0.136627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_skull_stick_01.prefab
+  artifactKey: Guid(a2ee3a78d0b205f40a3fe9f728e70ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_skull_stick_01.prefab using Guid(a2ee3a78d0b205f40a3fe9f728e70ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f77bc7df2441e809887675242762108') in 0.307711 seconds
+  Import took 0.315489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_sword_01.prefab
+  artifactKey: Guid(4fc13c77ac16e204d961d1f47541e29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_sword_01.prefab using Guid(4fc13c77ac16e204d961d1f47541e29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58674f4de04e87055310621e243d393d') in 0.065201 seconds
+  Import took 0.072210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_wall_logs_04.prefab
+  artifactKey: Guid(6d01ab68395de604e8468dd7162a5db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_wall_logs_04.prefab using Guid(6d01ab68395de604e8468dd7162a5db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f799108ec19e73189737cd88c114b5') in 0.069733 seconds
+  Import took 0.078685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_skull_02.prefab
+  artifactKey: Guid(ed41c29ebb074b0419d6ae743544d01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_skull_02.prefab using Guid(ed41c29ebb074b0419d6ae743544d01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22b974aa0aa931e6c89ed778cc2cee38') in 0.043998 seconds
+  Import took 0.061644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_torch_stick_01.prefab
+  artifactKey: Guid(f632ee341faffa64ebfa4e2c74d6e422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_torch_stick_01.prefab using Guid(f632ee341faffa64ebfa4e2c74d6e422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de4197a0129a04526467fc7f08b09710') in 0.946260 seconds
+  Import took 0.959235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_torch_fire_01.prefab
+  artifactKey: Guid(44eb32dcdfb035f4cb156673d7722d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_torch_fire_01.prefab using Guid(44eb32dcdfb035f4cb156673d7722d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e957010e5ea447c0eb440796e316daf4') in 0.099296 seconds
+  Import took 0.125990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_skull_01.prefab
+  artifactKey: Guid(74843168197e40948b5c8bd9d6b0b70d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_skull_01.prefab using Guid(74843168197e40948b5c8bd9d6b0b70d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b942cd42242c14fc3d5fad6f4c38c919') in 0.037559 seconds
+  Import took 0.045097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_shovel_01.prefab
+  artifactKey: Guid(8ea95cf3416f1584ea8b256eb4f7b5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_shovel_01.prefab using Guid(8ea95cf3416f1584ea8b256eb4f7b5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3560aa291404ba500dc5d858fb6eb162') in 0.058617 seconds
+  Import took 0.078706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_pillar_04.prefab
+  artifactKey: Guid(f52a56c4da29c034f9836ff268f823d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_pillar_04.prefab using Guid(f52a56c4da29c034f9836ff268f823d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5893f07a1059607dbcb05b4c9434fd6e') in 0.057587 seconds
+  Import took 0.067026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_fence_02_quad.prefab
+  artifactKey: Guid(0a6ead50ea4fb4109945bba33975273f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_fence_02_quad.prefab using Guid(0a6ead50ea4fb4109945bba33975273f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf23bffd38c2e5c85346879a77576ab') in 0.073348 seconds
+  Import took 0.084284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000725 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_shed_02.prefab
+  artifactKey: Guid(31ff8c7fafc02d64d86a0aadb8eddc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_shed_02.prefab using Guid(31ff8c7fafc02d64d86a0aadb8eddc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3bbcf450aeffadf26410e4f0f11d277') in 0.084811 seconds
+  Import took 0.093236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Models/Viking Village/Prefabs/Props/pf_shed_01.prefab
+  artifactKey: Guid(3ba18024abdc5834ebb6ca252e273790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Prefabs/Props/pf_shed_01.prefab using Guid(3ba18024abdc5834ebb6ca252e273790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175d170a9f843dab45a0fa1666efc19e') in 0.090778 seconds
+  Import took 0.098836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.315443 seconds.
+  path: Assets/Models/Viking Village/Models
+  artifactKey: Guid(a3ea94326889d497b89ed6198a01e3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models using Guid(a3ea94326889d497b89ed6198a01e3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce6660308670a7365bc6db0a3543f87') in 0.007407 seconds
+  Import took 0.027043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.060337 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings
+  artifactKey: Guid(8ce6df3f8ef9d4cde915e166207b37e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings using Guid(8ce6df3f8ef9d4cde915e166207b37e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1677607ea95cddb624d0d07d3159459') in 0.004026 seconds
+  Import took 0.013292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.105332 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_barracks_01.fbx
+  artifactKey: Guid(fcdfed3146ad63b4e95278d7959d5317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_barracks_01.fbx using Guid(fcdfed3146ad63b4e95278d7959d5317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04a7cbcb9ad28b5b345be6678ca40220') in 0.077761 seconds
+  Import took 0.087125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_bighouse_02.FBX
+  artifactKey: Guid(2ccd6dd4f39d8764b975081e71ad95c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_bighouse_02.FBX using Guid(2ccd6dd4f39d8764b975081e71ad95c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d245993eb24cafa1e046fede5f57290') in 0.031695 seconds
+  Import took 0.037863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_wall_corner_01.FBX
+  artifactKey: Guid(8d46c072a5a2cd44ab840d79cc1acc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_wall_corner_01.FBX using Guid(8d46c072a5a2cd44ab840d79cc1acc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b85dfc9497e1a7ea6007e413392f70') in 0.032141 seconds
+  Import took 0.040111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_small_house_01_low.FBX
+  artifactKey: Guid(20cb53a605cd94f88add74275f807adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_small_house_01_low.FBX using Guid(20cb53a605cd94f88add74275f807adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e7c5018192f158e50af1a11b809501') in 0.027620 seconds
+  Import took 0.047735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_crane_01.FBX
+  artifactKey: Guid(54cd1763354db5748bb75129f961734c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_crane_01.FBX using Guid(54cd1763354db5748bb75129f961734c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb7ccddb7c3be278020265c7cf0668e') in 0.059140 seconds
+  Import took 0.076376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_tower_01.FBX
+  artifactKey: Guid(1eb5989802803ad45b51184df8643cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_tower_01.FBX using Guid(1eb5989802803ad45b51184df8643cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8d2612a066b842e51de55291f9b451d') in 0.032220 seconds
+  Import took 0.038399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_bighouse_02_low.FBX
+  artifactKey: Guid(a6793d0fb2a9c4804b82c8755967ad9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_bighouse_02_low.FBX using Guid(a6793d0fb2a9c4804b82c8755967ad9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4617d747a333d8db619611460d17747e') in 0.027859 seconds
+  Import took 0.039564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_big_storage_01.fbx
+  artifactKey: Guid(ae04583bfa7e89144b9b5c7c76a54cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_big_storage_01.fbx using Guid(ae04583bfa7e89144b9b5c7c76a54cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9a3d8b04644321ebd9793f1acad51b6') in 0.077513 seconds
+  Import took 0.084174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_barracks_single_01.fbx
+  artifactKey: Guid(d3f6bd8686fd5e546964fa0f307f09f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_barracks_single_01.fbx using Guid(d3f6bd8686fd5e546964fa0f307f09f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ecde550d308684d94de01752b79811a') in 0.112986 seconds
+  Import took 0.126238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_barracks_01_low.fbx
+  artifactKey: Guid(55e0b1c012b4f40dca24d41050a1e36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_barracks_01_low.fbx using Guid(55e0b1c012b4f40dca24d41050a1e36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8981059a4fa41ddb3adebb3fb74c47b') in 0.039008 seconds
+  Import took 0.046813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_small_house_straw_roof_01_low.FBX
+  artifactKey: Guid(da46e354d001040d5b30e76b84bfe83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_small_house_straw_roof_01_low.FBX using Guid(da46e354d001040d5b30e76b84bfe83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60b14a03d26a53b65602693679af8ab') in 0.035298 seconds
+  Import took 0.043768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_big_storage_01_low.fbx
+  artifactKey: Guid(63692c1ba38b74b9299ef1258a8d4451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_big_storage_01_low.fbx using Guid(63692c1ba38b74b9299ef1258a8d4451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850b65f9048b3760069028506305032e') in 0.111786 seconds
+  Import took 0.123990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_blacksmith_01.fbx
+  artifactKey: Guid(5c92accc78ab0da41886eefa8a4d2e0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_blacksmith_01.fbx using Guid(5c92accc78ab0da41886eefa8a4d2e0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02a034583bfa206682bceee71da393d') in 0.171289 seconds
+  Import took 0.195273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_barracks_single_01_low.fbx
+  artifactKey: Guid(873f42b3eb42e45dd9507b7160c16f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_barracks_single_01_low.fbx using Guid(873f42b3eb42e45dd9507b7160c16f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9191d76aba05dc0dfdeedd3f185c4b10') in 0.029267 seconds
+  Import took 0.035693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_wall_panel_01_low.FBX
+  artifactKey: Guid(7512d239bb1644561981cae013bc12d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_wall_panel_01_low.FBX using Guid(7512d239bb1644561981cae013bc12d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26492b70f2de5138b3ea91bf13425466') in 0.027790 seconds
+  Import took 0.038798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_bighouse_01_low.fbx
+  artifactKey: Guid(042d8e74e11e4453d952128753c7f166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_bighouse_01_low.fbx using Guid(042d8e74e11e4453d952128753c7f166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54a01d7c50a4f84228841f8c07f0f806') in 0.033418 seconds
+  Import took 0.040920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_small_house_tall_roof_01.FBX
+  artifactKey: Guid(67a47adc57ef94348bd6354ed310f779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_small_house_tall_roof_01.FBX using Guid(67a47adc57ef94348bd6354ed310f779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8373ba3321a764af5cbb82c7dd94f324') in 0.045445 seconds
+  Import took 0.063687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000534 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_small_house_tall_roof_01_low.FBX
+  artifactKey: Guid(fb9d88ec2b38245b0a859a47881409b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_small_house_tall_roof_01_low.FBX using Guid(fb9d88ec2b38245b0a859a47881409b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd36525df05672aebd744ba35d7b53577') in 0.036115 seconds
+  Import took 0.043368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_storage_01_low.fbx
+  artifactKey: Guid(62a2b4a92145d4d11896f8e64e447f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_storage_01_low.fbx using Guid(62a2b4a92145d4d11896f8e64e447f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35aaa33df48d6537e964ff8ca6642046') in 0.030128 seconds
+  Import took 0.039698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_small_house_straw_roof_01.FBX
+  artifactKey: Guid(d2504d68eaca7e141a7898d1a61bf0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_small_house_straw_roof_01.FBX using Guid(d2504d68eaca7e141a7898d1a61bf0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94dde7ef4af15a4e9a04d0d2cee260f4') in 0.029522 seconds
+  Import took 0.036868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_wall_panel_01.FBX
+  artifactKey: Guid(8f846af047fb875419e8afacc6cedb5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_wall_panel_01.FBX using Guid(8f846af047fb875419e8afacc6cedb5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a77c83a2cf2d1b9f8ef804bad5c84b7') in 0.026879 seconds
+  Import took 0.038465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_blacksmith_01_low.fbx
+  artifactKey: Guid(f8a5ae50a856845ddbddf45c1c976e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_blacksmith_01_low.fbx using Guid(f8a5ae50a856845ddbddf45c1c976e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f68914822435c965f120c4bbe69388') in 0.101958 seconds
+  Import took 0.114314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_small_house_01.FBX
+  artifactKey: Guid(1b7f2a5ef2bfc644889e208955107676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_small_house_01.FBX using Guid(1b7f2a5ef2bfc644889e208955107676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81a8ae50da86da7b5e958e941dbcba88') in 0.029212 seconds
+  Import took 0.035936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_dragonhead_01.fbx
+  artifactKey: Guid(66ec384a846e549a09d5fa5c9f6f2e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_dragonhead_01.fbx using Guid(66ec384a846e549a09d5fa5c9f6f2e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9540290871adfb8293900bc6a7d01f') in 0.075300 seconds
+  Import took 0.088114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_bighouse_01.fbx
+  artifactKey: Guid(c3296d0d1865964468574f415b0b983e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_bighouse_01.fbx using Guid(c3296d0d1865964468574f415b0b983e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a4cbe5ceb421744df5d2a19a681ebbd') in 0.026365 seconds
+  Import took 0.032481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_gate_01.fbx
+  artifactKey: Guid(5f643dd3063229e4380c16656cb6cb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_gate_01.fbx using Guid(5f643dd3063229e4380c16656cb6cb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32d91941b18caa24a0597672a7294e1') in 0.019314 seconds
+  Import took 0.030943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_boat_01.FBX
+  artifactKey: Guid(c0e3cc442127dbd49821a91bcca81459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_boat_01.FBX using Guid(c0e3cc442127dbd49821a91bcca81459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6045d3f75a45c397dc3b241abdfc2ff') in 0.077377 seconds
+  Import took 0.093718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_boat_01_low.FBX
+  artifactKey: Guid(667cb25aa82724e06beab05368c07b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_boat_01_low.FBX using Guid(667cb25aa82724e06beab05368c07b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509d6de12fbdc352587eabd8be069a4d') in 0.095669 seconds
+  Import took 0.103026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_wall_corner_01_low.FBX
+  artifactKey: Guid(02c34205b79534abdaa3b88a6e755421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_wall_corner_01_low.FBX using Guid(02c34205b79534abdaa3b88a6e755421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa70c39b0bdd3dd0357326a65511208e') in 0.029112 seconds
+  Import took 0.049657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Models/Viking Village/Models/Buildings/build_storage_01.fbx
+  artifactKey: Guid(f8c9aca3d7c24374092cfe8d85f4ba7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Buildings/build_storage_01.fbx using Guid(f8c9aca3d7c24374092cfe8d85f4ba7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025e5bd23da80a228d6c682cfec0a192') in 0.034341 seconds
+  Import took 0.040496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.449458 seconds.
+  path: Assets/Models/Viking Village/Models/Props
+  artifactKey: Guid(79b165591693b4cae9f4f836845c3e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props using Guid(79b165591693b4cae9f4f836845c3e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3961af3f68bfb9e01e644241d675dc') in 0.003384 seconds
+  Import took 0.013008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058923 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_barrel_01.fbx
+  artifactKey: Guid(fa23ba21d03513f46b70227bb5a7dc67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_barrel_01.fbx using Guid(fa23ba21d03513f46b70227bb5a7dc67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e177dc860931d0de5979db09000cb180') in 0.029916 seconds
+  Import took 0.056908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_pillar_04.fbx
+  artifactKey: Guid(b9b711cca815203469c397bd5b735605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_pillar_04.fbx using Guid(b9b711cca815203469c397bd5b735605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8726b8811d2a01f2b49d32d7abdeaf42') in 0.033215 seconds
+  Import took 0.039752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000611 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_skull_01.fbx
+  artifactKey: Guid(1392dc8849c4ad448879f0e14954e36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_skull_01.fbx using Guid(1392dc8849c4ad448879f0e14954e36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f019b01cfb521f541807534e9ffc69e') in 0.075822 seconds
+  Import took 0.088948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_shovel_01.fbx
+  artifactKey: Guid(69064aed2caf1fa4b96b8d5f0e92f443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_shovel_01.fbx using Guid(69064aed2caf1fa4b96b8d5f0e92f443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4efa62a250d2f9a105f2b02cbc490349') in 0.047222 seconds
+  Import took 0.053882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_shield_01.fbx
+  artifactKey: Guid(1f6399aa9d830fb4180fd4fa78aa2138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_shield_01.fbx using Guid(1f6399aa9d830fb4180fd4fa78aa2138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d63e5da0931160326fd72e212e02c71') in 0.045131 seconds
+  Import took 0.053017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_plankpile_01.fbx
+  artifactKey: Guid(d65ca9cd416b24674b3814c08b317d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_plankpile_01.fbx using Guid(d65ca9cd416b24674b3814c08b317d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a5f189c74484acf43747d2a7d11c235') in 0.054016 seconds
+  Import took 0.075432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_plank_01.fbx
+  artifactKey: Guid(a76543a557516f34a88087000a3a2c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_plank_01.fbx using Guid(a76543a557516f34a88087000a3a2c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9153cfe35b50edae9589102be84fd6') in 0.058522 seconds
+  Import took 0.066341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_plankpile_02.fbx
+  artifactKey: Guid(f2050ce2283674dea97216f291a2aaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_plankpile_02.fbx using Guid(f2050ce2283674dea97216f291a2aaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472c9bad05ebd1269935900413e1ff96') in 0.052445 seconds
+  Import took 0.061653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_plankpile_03.fbx
+  artifactKey: Guid(18990a392ab4c4994bb219f0b80b9aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_plankpile_03.fbx using Guid(18990a392ab4c4994bb219f0b80b9aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab38a59528a54437d869a2113bd5b27') in 0.068265 seconds
+  Import took 0.076587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_shed_01.fbx
+  artifactKey: Guid(fa7bf0a76c0af3741a553277c94e0870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_shed_01.fbx using Guid(fa7bf0a76c0af3741a553277c94e0870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bfbd22ea6eec3b80ea6819e4bbf5a86') in 0.054263 seconds
+  Import took 0.067603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_pillar_03.fbx
+  artifactKey: Guid(4217f51a1559cce4186f56f2b124ec8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_pillar_03.fbx using Guid(4217f51a1559cce4186f56f2b124ec8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8eca642b69a97e5bb7ca2e871a931ed') in 0.033247 seconds
+  Import took 0.040416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_fence_01_double.fbx
+  artifactKey: Guid(af7712f337bdf1f42a74310e69e9feec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_fence_01_double.fbx using Guid(af7712f337bdf1f42a74310e69e9feec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '532f8b630915566d52be9fd5b022cf90') in 0.027636 seconds
+  Import took 0.047422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_boulder_01.fbx
+  artifactKey: Guid(9c01f56c88fd77740b2c892f10b07529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_boulder_01.fbx using Guid(9c01f56c88fd77740b2c892f10b07529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856d72a8ce7ec32926f1d6868d552215') in 0.055649 seconds
+  Import took 0.062829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_plank_02.fbx
+  artifactKey: Guid(1992715cadd417041addaffa0179b523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_plank_02.fbx using Guid(1992715cadd417041addaffa0179b523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b71ee9c1f42503d03edc2638332eafb2') in 0.050909 seconds
+  Import took 0.058326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_fence_01_tripple.fbx
+  artifactKey: Guid(ad9b118c957ec734fb74fb0f8565c57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_fence_01_tripple.fbx using Guid(ad9b118c957ec734fb74fb0f8565c57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ba3d26ae47519d2448cf6b414ac3f3') in 0.029086 seconds
+  Import took 0.057186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_fish_01.fbx
+  artifactKey: Guid(621f2543f3dbbb743a715710df3ad0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_fish_01.fbx using Guid(621f2543f3dbbb743a715710df3ad0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aca4a3a72a61b1fde520b78548d5aacf') in 0.026416 seconds
+  Import took 0.035191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_plank_03.fbx
+  artifactKey: Guid(93375c61ee4de9d43a1baa4c51a44a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_plank_03.fbx using Guid(93375c61ee4de9d43a1baa4c51a44a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4f5f06e71605a0bccfc2e3361c95ce') in 0.050318 seconds
+  Import took 0.088457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_rune_01.fbx
+  artifactKey: Guid(18cc223d9a39ca143923b4283e113f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_rune_01.fbx using Guid(18cc223d9a39ca143923b4283e113f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc19e5dc8c5c037eada3609c4d7d6e05') in 0.042911 seconds
+  Import took 0.049760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_fence_01.fbx
+  artifactKey: Guid(61e0fad85ffca3d48af70c4ed4412dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_fence_01.fbx using Guid(61e0fad85ffca3d48af70c4ed4412dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4338b970c2cc1175324bbe7c4fc36f98') in 0.020832 seconds
+  Import took 0.027679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_shield_02.fbx
+  artifactKey: Guid(9feb1386b2df0418188cb6d3e81aac51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_shield_02.fbx using Guid(9feb1386b2df0418188cb6d3e81aac51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3df4fedd6b0bbc77c9404f6973f2af3') in 0.098465 seconds
+  Import took 0.106162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_fence_02_double.fbx
+  artifactKey: Guid(af2dbc1c15da1634796de9b26a2fc305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_fence_02_double.fbx using Guid(af2dbc1c15da1634796de9b26a2fc305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e7c26ed1836e34b27d0eb5dfc969492') in 0.053931 seconds
+  Import took 0.071983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_sword_01.fbx
+  artifactKey: Guid(f6cf12409dfc95a419ef890effbda08f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_sword_01.fbx using Guid(f6cf12409dfc95a419ef890effbda08f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb210ef4e13550b9647a5eb08bd682b3') in 0.038790 seconds
+  Import took 0.045739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_logpile_01.fbx
+  artifactKey: Guid(afca8082c16faf9428f303ba1cbf7beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_logpile_01.fbx using Guid(afca8082c16faf9428f303ba1cbf7beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b12d32810925b3fa23a461e1430a8e') in 0.049751 seconds
+  Import took 0.057907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_scaffold_01.fbx
+  artifactKey: Guid(816dd4e12137b7e4c9c77561996d31aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_scaffold_01.fbx using Guid(816dd4e12137b7e4c9c77561996d31aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2676784f72f9d4f8628482c21e518ea') in 0.039519 seconds
+  Import took 0.046473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_fence_02_quad.fbx
+  artifactKey: Guid(3e1e7749014834df5aa43543fc0fc595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_fence_02_quad.fbx using Guid(3e1e7749014834df5aa43543fc0fc595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d56b458c32430ac24dd143b113eb1ab') in 0.053196 seconds
+  Import took 0.061759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_boulder_02.fbx
+  artifactKey: Guid(49f529b8a91c946a5a0e07437fa8a0d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_boulder_02.fbx using Guid(49f529b8a91c946a5a0e07437fa8a0d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed10b05f9117117ce32a0c1b38ea328a') in 0.039300 seconds
+  Import took 0.046451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_torch_01.fbx
+  artifactKey: Guid(e67ac924a8b5d7146897ee3ba2f0431b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_torch_01.fbx using Guid(e67ac924a8b5d7146897ee3ba2f0431b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53d9071fa7972ccde3dbeb8a06d26722') in 0.044799 seconds
+  Import took 0.053395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_shield_03.fbx
+  artifactKey: Guid(1fe921c7042704309bc06c15edea3c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_shield_03.fbx using Guid(1fe921c7042704309bc06c15edea3c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a49f7e4b8fb88b3ad91f466917f21437') in 0.099266 seconds
+  Import took 0.106300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_plankpath_01.FBX
+  artifactKey: Guid(581f44de254557f45b9a02a2178337d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_plankpath_01.FBX using Guid(581f44de254557f45b9a02a2178337d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7430f38c0e1035da6d053f09f6d855a8') in 0.183112 seconds
+  Import took 0.191322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_shed_02.fbx
+  artifactKey: Guid(a6acaec5e033b1644953c42e3b9b0d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_shed_02.fbx using Guid(a6acaec5e033b1644953c42e3b9b0d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19a6b0fb46a05006623c680e7829491') in 0.052741 seconds
+  Import took 0.076718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_buckets_01.fbx
+  artifactKey: Guid(0336d8e6670574bc69fb5e333affc6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_buckets_01.fbx using Guid(0336d8e6670574bc69fb5e333affc6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d64e68cf4b3dcfae2ffaacd8662e05') in 0.052472 seconds
+  Import took 0.060523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_barrels_02.fbx
+  artifactKey: Guid(c068b975d6a104cc794e87dfaaa9650c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_barrels_02.fbx using Guid(c068b975d6a104cc794e87dfaaa9650c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '571b66a4cba226b1e35ed8ea233b4467') in 0.040469 seconds
+  Import took 0.048500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_pillar_06.fbx
+  artifactKey: Guid(d3afe37d78d4bad40b4dda5b80345ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_pillar_06.fbx using Guid(d3afe37d78d4bad40b4dda5b80345ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd576b7ac5fa113c1e0c3f3684eed146a') in 0.020964 seconds
+  Import took 0.027410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_menhir_01.fbx
+  artifactKey: Guid(babd8fd3acdecdb40ba7ffca5737dfee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_menhir_01.fbx using Guid(babd8fd3acdecdb40ba7ffca5737dfee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d06b6d0178c847195d0ca06d78c57e6') in 0.047990 seconds
+  Import took 0.055857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000973 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_fence_02.FBX
+  artifactKey: Guid(87b187da5d6c82b4688ad83f5ace7a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_fence_02.FBX using Guid(87b187da5d6c82b4688ad83f5ace7a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5c3f50b9d0889a8787da7493695941') in 0.052581 seconds
+  Import took 0.062347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_barrels_01.fbx
+  artifactKey: Guid(0ad98a3159ce54ceaa42d70e62733d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_barrels_01.fbx using Guid(0ad98a3159ce54ceaa42d70e62733d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7faccfe55f29020b85f9c9a2f7461e') in 0.037941 seconds
+  Import took 0.044400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_bucket_01.fbx
+  artifactKey: Guid(a62fa03309f6c4941a98ec559bd71614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_bucket_01.fbx using Guid(a62fa03309f6c4941a98ec559bd71614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee4732e2c29159d1dd759a09b7601c5f') in 0.048657 seconds
+  Import took 0.070287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_halberd_01.fbx
+  artifactKey: Guid(f650197ad0f57f846a6e4ac90eb49dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_halberd_01.fbx using Guid(f650197ad0f57f846a6e4ac90eb49dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd4f7fbedb54fb50219c220588befc3') in 0.038557 seconds
+  Import took 0.045510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_boardwalk_01.FBX
+  artifactKey: Guid(ce36f87d0964b71438a24600649180ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_boardwalk_01.FBX using Guid(ce36f87d0964b71438a24600649180ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5bdbb555e990cc4f1eeb23e19cd9873') in 0.514242 seconds
+  Import took 0.522525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Models/Viking Village/Models/Props/prop_pillar_05.fbx
+  artifactKey: Guid(59e06369c830fd24ba1943870ab425af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Viking Village/Models/Props/prop_pillar_05.fbx using Guid(59e06369c830fd24ba1943870ab425af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e50d99c435497a99e7c6cedcfb0977f3') in 0.026270 seconds
+  Import took 0.048096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 264.302440 seconds.
+  path: Assets/Models/Medieval_Village/AstroCommon/Effects/Fire_Anim.mat
+  artifactKey: Guid(5a26c2f06b868924890d87092b37d91e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/AstroCommon/Effects/Fire_Anim.mat using Guid(5a26c2f06b868924890d87092b37d91e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1916f9fdab3a8b797ab83e490da538b') in 0.036423 seconds
+  Import took 0.043869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.511912 seconds.
+  path: Assets/Models/Medieval_Village/Prfbs/Building.prefab
+  artifactKey: Guid(842db95f600b38a4a936ac0db6ded7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Medieval_Village/Prfbs/Building.prefab using Guid(842db95f600b38a4a936ac0db6ded7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c00f75ff84d3792d6f0d7791c8038511') in 0.805291 seconds
+  Import took 0.903674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.997388 seconds.
+  path: Assets/Models/Conifers [BOTD]/Conifers [BOTD] URP.unitypackage
+  artifactKey: Guid(2b43184afc73ac64d9bfb74962236298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Conifers [BOTD]/Conifers [BOTD] URP.unitypackage using Guid(2b43184afc73ac64d9bfb74962236298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdd47a97891ce405fe9c18a969bc8e98') in 0.012542 seconds
+  Import took 0.034336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.474901 seconds.
+  path: Assets/Models/Conifers [BOTD]/Render Pipeline Support
+  artifactKey: Guid(bf28865a6e5fab64c84db5fa4c2f7cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Conifers [BOTD]/Render Pipeline Support using Guid(bf28865a6e5fab64c84db5fa4c2f7cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c0b3aecd7822a49360c33695e9a048d') in 0.004204 seconds
+  Import took 0.011445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.655611 seconds.
+  path: Assets/Models/Conifers [BOTD]/Render Pipeline Support/Built-in RP
+  artifactKey: Guid(89b57d6e07166334994217f6375166e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Conifers [BOTD]/Render Pipeline Support/Built-in RP using Guid(89b57d6e07166334994217f6375166e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9557b6d6642c763d088b01a74d6c41d') in 0.004760 seconds
+  Import took 0.011839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.175335 seconds.
+  path: Assets/Models/Conifers [BOTD]/Render Pipeline Support/Built-in RP/VSPro_CTIShaderController.unitypackage
+  artifactKey: Guid(e4d200bd9cd394c85b6d524927580559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Conifers [BOTD]/Render Pipeline Support/Built-in RP/VSPro_CTIShaderController.unitypackage using Guid(e4d200bd9cd394c85b6d524927580559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7226ce41a68e3b42e13dd08d740bf999') in 0.005102 seconds
+  Import took 0.012782 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003104 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/AOT` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.collab-proxy@1.3.9/Lib/Editor/PlasticSCM` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Portable` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/AOT` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.collab-proxy@1.3.9/Lib/Editor/PlasticSCM` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Portable` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime` does not exist
+at <empty>:line 0
+
+VikingVillageUniversal_Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.5.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.5.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.5.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.491 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2878 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 238.9 MB.
+System memory in use after: 222.1 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 3977.
+Total: 6.107600 ms (FindLiveObjects: 0.478600 ms CreateObjectMapping: 0.186700 ms MarkObjects: 3.641000 ms  DeleteObjects: 1.799300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006801 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/AOT` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.collab-proxy@1.3.9/Lib/Editor/PlasticSCM` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Portable` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/AOT` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.collab-proxy@1.3.9/Lib/Editor/PlasticSCM` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Portable` does not exist
+at <empty>:line 0
+
+The assembly search path `D:/GitHub/Drone/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime` does not exist
+at <empty>:line 0
+
+VikingVillageUniversal_Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.5.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.5.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.5.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.375 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2863 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 221.3 MB.
+System memory in use after: 221.0 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 3978.
+Total: 5.448200 ms (FindLiveObjects: 0.383000 ms CreateObjectMapping: 0.301400 ms MarkObjects: 4.206700 ms  DeleteObjects: 0.555400 ms)
+
