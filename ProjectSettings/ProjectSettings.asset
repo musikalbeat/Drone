@@ -567,6 +567,8 @@ PlayerSettings:
   switchNetworkInterfaceManagerInitializeEnabled: 1
   switchPlayerConnectionEnabled: 1
   switchUseNewStyleFilepaths: 0
+  switchUseMicroSleepForYield: 1
+  switchMicroSleepForYieldTime: 25
   ps4NPAgeRating: 170930224
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
@@ -775,11 +777,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: 2ef72260-ca98-4cf3-b676-541aa3d0710d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: SaturdayDrone
+  organizationId: whitney-tran
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   virtualTexturingSupportEnabled: 0
