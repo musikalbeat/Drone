@@ -10,9 +10,13 @@ using UnityEngine;
 - Reference 2 buttons: ArenaButton, DroneButton
 - When DroneButton is pressed, opens up a panel with a selection of buttons of teams
 */
-
 public class Camera : MonoBehaviour
 {
+    public GameObject uiGroup;
+
+    private GameObject arenaButton;
+    private GameObject droneButton;
+    private GameObject cam;
     // Start is called before the first frame update
     void Start()
     {
