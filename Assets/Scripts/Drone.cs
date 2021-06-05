@@ -51,7 +51,6 @@ public class Drone : MonoBehaviour
 
                 while (IsPathBlocked())
                 {
-                    Debug.Log("Path Blocked");
                     GetDestination();
                 }
 

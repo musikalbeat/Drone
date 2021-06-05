@@ -23,19 +23,18 @@ public class CameraScript : MonoBehaviour
     private GameObject cam;
 
     private int arenaCounter = 0;
-    private bool panelToggle = true;
+    private bool panelToggle = false;
 
     private bool droneMode = false;
     private string droneType;
     private GameObject target;
 
-    // Start is called before the first frame update
     void Start()
     {
         cam = GameObject.FindGameObjectWithTag("MainCamera");
+        dronePanel.SetActive(false);
     }
 
-    // Update is called once per frame
     void LateUpdate()
     {
         if (droneMode == true)
