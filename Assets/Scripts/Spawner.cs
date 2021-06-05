@@ -28,7 +28,6 @@ public class Spawner : MonoBehaviour
                 {
                     Instantiate(objectToSpawn, new Vector3( transform.position.x, transform.position.y, transform.position.z),
                                                             Quaternion.identity, parent.transform);
-                    Debug.Log("Spawn!");
                 }
                 spawnTimer = rate;
             }
