@@ -1,528 +1,758 @@
 Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 16304 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MacOS/Unity
+D:\Unity\2020.3.9f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/Users/zacharyzhang/Documents/Unity-2-Platforming-Game/Unity-2-Tower-Defense-Template/-i0pjlnk,m/Drone
+D:/GitHub/Drone
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51830
-Successfully changed project path to: /Users/zacharyzhang/Documents/Unity-2-Platforming-Game/Unity-2-Tower-Defense-Template/-i0pjlnk,m/Drone
-/Users/zacharyzhang/Documents/Unity-2-Platforming-Game/Unity-2-Tower-Defense-Template/-i0pjlnk,m/Drone
+56700
+Successfully changed project path to: D:/GitHub/Drone
+D:/GitHub/Drone
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 85.46 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 93.81 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.9f1 (108be757e447)
-[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/zacharyzhang/Documents/Unity-2-Platforming-Game/Unity-2-Tower-Defense-Template/-i0pjlnk,m/Drone/Assets
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitHub/Drone/Assets
 GfxDevice: creating device client; threaded=0
-2021-06-05 09:49:06.342 Unity[69614:956284] Color LCD preferred device: AMD Radeon Pro 560X (high power)
-2021-06-05 09:49:06.342 Unity[69614:956284] Metal devices available: 2
-2021-06-05 09:49:06.342 Unity[69614:956284] 0: AMD Radeon Pro 560X (high power)
-2021-06-05 09:49:06.342 Unity[69614:956284] 1: Intel(R) UHD Graphics 630 (low power)
-2021-06-05 09:49:06.343 Unity[69614:956284] Using device AMD Radeon Pro 560X (high power)
-Initializing Metal device caps: AMD Radeon Pro 560X
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   27.21.14.6663
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Initialize mono
-Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Managed'
-Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56614
+Mono path[0] = 'D:/Unity/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56408
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.003231 seconds.
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 82.96 ms, found 1 plugins.
+Register platform support module: D:/Unity/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001468 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 89.13 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.976 seconds
+- Completed reload, in  1.797 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003633 seconds.
+Registered in 0.002676 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 88.63 ms, found 1 plugins.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 83.57 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.652 seconds
+- Completed reload, in  3.603 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launching external process: /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 1.15 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.0 MB.
-System memory in use after: 228.1 MB.
+Unloading 3011 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 254.4 MB.
+System memory in use after: 254.2 MB.
 
-Unloading 99 unused Assets to reduce memory usage. Loaded Objects now: 3439.
-Total: 4.327331 ms (FindLiveObjects: 0.350030 ms CreateObjectMapping: 0.180132 ms MarkObjects: 3.439846 ms  DeleteObjects: 0.354929 ms)
+Unloading 105 unused Assets to reduce memory usage. Loaded Objects now: 3451.
+Total: 4.040500 ms (FindLiveObjects: 0.583700 ms CreateObjectMapping: 0.357100 ms MarkObjects: 2.792100 ms  DeleteObjects: 0.306100 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/Arena.asset
   artifactKey: Guid(d16f41fbc78c4da4a821380b4c092bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Arena.asset using Guid(d16f41fbc78c4da4a821380b4c092bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c7c6b47c731ecb27c7f3d9d7ea41c4') in 0.063667 seconds
-  Import took 0.070177 seconds .
+Start importing Assets/Arena.asset using Guid(d16f41fbc78c4da4a821380b4c092bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7242170afcaa32d6197a03288281db') in 0.070923 seconds
+  Import took 0.077031 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/Readme.asset
-  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ffd2c44ffeb50c574abb5d0c4453328') in 0.003207 seconds
-  Import took 0.008327 seconds .
+  Time since last request: 507.508494 seconds.
+  path: Assets/cat.jpg
+  artifactKey: Guid(3a2696dc3080b0a45a55751943ded0fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cat.jpg using Guid(3a2696dc3080b0a45a55751943ded0fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a3e5688592688eb1b05e6f4ec28b7a') in 0.124412 seconds
+  Import took 0.131803 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.069771 seconds.
-  path: Assets/Arena.asset
-  artifactKey: Guid(d16f41fbc78c4da4a821380b4c092bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Arena.asset using Guid(d16f41fbc78c4da4a821380b4c092bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c7c6b47c731ecb27c7f3d9d7ea41c4') in 0.005548 seconds
-  Import took 0.010954 seconds .
+  Time since last request: 145.252866 seconds.
+  path: Assets/Fantasy_creature_Battle Spider
+  artifactKey: Guid(52f52016f5f82f744b9d2eeff7df9704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider using Guid(52f52016f5f82f744b9d2eeff7df9704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd452286710ab784e9b1217f2c1659636') in 0.004259 seconds
+  Import took 0.026216 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.291808 seconds.
-  path: Assets/Scenes/Drone.unity
-  artifactKey: Guid(2b8077ad2c36f6749b8198141fbb5cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Drone.unity using Guid(2b8077ad2c36f6749b8198141fbb5cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cd130c499b01ea76bda6e4dd530c8c4') in 0.001272 seconds
-  Import took 0.006785 seconds .
+  Time since last request: 5.844505 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs
+  artifactKey: Guid(20e5d56e3d9280d468fe112d7432001a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs using Guid(20e5d56e3d9280d468fe112d7432001a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '891ca376c453be8c969ee97cf072053c') in 0.004467 seconds
+  Import took 0.015677 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.010446 seconds.
-  path: Assets/Scenes/Drone.unity
-  artifactKey: Guid(2b8077ad2c36f6749b8198141fbb5cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Drone.unity using Guid(2b8077ad2c36f6749b8198141fbb5cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cd130c499b01ea76bda6e4dd530c8c4') in 0.001314 seconds
-  Import took 0.007513 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001373 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
-
-[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.602 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2856 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 223.7 MB.
-System memory in use after: 223.9 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3449.
-Total: 3.617340 ms (FindLiveObjects: 0.340611 ms CreateObjectMapping: 0.180331 ms MarkObjects: 2.998871 ms  DeleteObjects: 0.096297 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001603 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
-
-[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.206 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 223.9 MB.
-System memory in use after: 224.1 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3452.
-Total: 3.581296 ms (FindLiveObjects: 0.295849 ms CreateObjectMapping: 0.145384 ms MarkObjects: 3.029453 ms  DeleteObjects: 0.109171 ms)
+  Time since last request: 0.071258 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab
+  artifactKey: Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab using Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd56f10acb2eaacf32253193f366cdb') in 0.266610 seconds
+  Import took 0.273257 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1609.895957 seconds.
-  path: Assets/Presets/AudioCompressedInMemory.preset
-  artifactKey: Guid(2dd802e4d37c65149922028d3e973832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Presets/AudioCompressedInMemory.preset using Guid(2dd802e4d37c65149922028d3e973832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac4de02398cfe62c06251b0f50233ebf') in 0.036733 seconds
-  Import took 0.042638 seconds .
+  Time since last request: 0.000710 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab
+  artifactKey: Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab using Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2397095aef6f211bcd843367a82041cc') in 0.041794 seconds
+  Import took 0.052608 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000231 seconds.
-  path: Assets/Presets/AudioStreaming.preset
-  artifactKey: Guid(86bcce7f5575b54408aa0f3a7d321039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Presets/AudioStreaming.preset using Guid(86bcce7f5575b54408aa0f3a7d321039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9982fbd60bc57b892b2c54d34a0163c0') in 0.003234 seconds
-  Import took 0.008721 seconds .
+  Time since last request: 0.000574 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/Directional light.prefab
+  artifactKey: Guid(9aec2e7c40bcf9440a2163c9789d9cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/Directional light.prefab using Guid(9aec2e7c40bcf9440a2163c9789d9cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a35ac02c082f68a27b3389b7d3e60c5') in 0.007817 seconds
+  Import took 0.033012 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/Presets/NormalTexture.preset
-  artifactKey: Guid(14a57cf3b9fa1c74b884aa7e0dcf1faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Presets/NormalTexture.preset using Guid(14a57cf3b9fa1c74b884aa7e0dcf1faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c195482fc53bc4f53f643643f636469') in 0.005269 seconds
-  Import took 0.011242 seconds .
+  Time since last request: 0.000595 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/Main Camera.prefab
+  artifactKey: Guid(d49f6b544eec9354bb9e1f1db7f736b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/Main Camera.prefab using Guid(d49f6b544eec9354bb9e1f1db7f736b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e660b37cd1393096b153b47c17ec233a') in 0.012734 seconds
+  Import took 0.019904 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000212 seconds.
-  path: Assets/Presets/UtilityTexture.preset
-  artifactKey: Guid(45f7b2e3c78185248b3adbb14429c2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Presets/UtilityTexture.preset using Guid(45f7b2e3c78185248b3adbb14429c2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9c1faeeb59b745cafa0ae79c874a42') in 0.004400 seconds
-  Import took 0.009700 seconds .
+  Time since last request: 34.307248 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx
+  artifactKey: Guid(9da55907d6e355245adf325ee75b62b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx using Guid(9da55907d6e355245adf325ee75b62b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244b9151c6f8edc92f73ab51777014ba') in 0.005306 seconds
+  Import took 0.012192 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.095454 seconds.
+  Time since last request: 0.101115 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider01.FBX
+  artifactKey: Guid(b242000de832a0e43ae4860f64e5ff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider01.FBX using Guid(b242000de832a0e43ae4860f64e5ff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4276ee5469ea1ba5dc49e3b7f819a375') in 0.124452 seconds
+  Import took 0.144257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000563 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_jump_action01.FBX
+  artifactKey: Guid(da1485b1268149240b66e4fd766b8c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_jump_action01.FBX using Guid(da1485b1268149240b66e4fd766b8c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485d00b27b0782871bbb9b045ce4ea09') in 0.011069 seconds
+  Import took 0.019509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000637 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_action01.FBX
+  artifactKey: Guid(0ca6dd14d5753154c808054af10bcd82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_action01.FBX using Guid(0ca6dd14d5753154c808054af10bcd82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e330405853d6c15c0a6dfe4b9ab9ae23') in 0.012203 seconds
+  Import took 0.018910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000572 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_hit01.FBX
+  artifactKey: Guid(b54b11b1544b7244a82f55978a1a9c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_hit01.FBX using Guid(b54b11b1544b7244a82f55978a1a9c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd5c9754e6a6c3f33ff07f67104aa74') in 0.016897 seconds
+  Import took 0.027704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_ready01.FBX
+  artifactKey: Guid(7fd9778d38a77634b92dab4535d16d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_ready01.FBX using Guid(7fd9778d38a77634b92dab4535d16d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0c8ade68852da7c1e8acf984986d21d') in 0.011947 seconds
+  Import took 0.047382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die_action03.FBX
+  artifactKey: Guid(0013a60e4cfc5c64faa8154cfb0ac025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die_action03.FBX using Guid(0013a60e4cfc5c64faa8154cfb0ac025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112dc112b58ca24611be26955e9ac381') in 0.017263 seconds
+  Import took 0.061293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider02.FBX
+  artifactKey: Guid(c2694ce66043cf34fbe29c1342f3a3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider02.FBX using Guid(c2694ce66043cf34fbe29c1342f3a3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd5fcc8cfc725d0c1c8f8bf2c7e0822') in 0.036629 seconds
+  Import took 0.042030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_attack03.FBX
+  artifactKey: Guid(de5a3a2b4e4cbff4ab3c432f29f240bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_attack03.FBX using Guid(de5a3a2b4e4cbff4ab3c432f29f240bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d84ab8346d18ff7cd1188b43e81d77b') in 0.011851 seconds
+  Import took 0.019556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000563 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_attack01.FBX
+  artifactKey: Guid(43149f4e5845b484f85054e010f2b9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_attack01.FBX using Guid(43149f4e5845b484f85054e010f2b9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648b3c1006a8777d383ebe496459b0f6') in 0.016199 seconds
+  Import took 0.024562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die_action04.FBX
+  artifactKey: Guid(854cd819ec16ad64babeaa5e330c83c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die_action04.FBX using Guid(854cd819ec16ad64babeaa5e330c83c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0681aae441fb4c5c6cafd1b065c104c7') in 0.011446 seconds
+  Import took 0.017322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000600 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die02.FBX
+  artifactKey: Guid(801f61b4a6c522044a4f45b7d1a0bfc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die02.FBX using Guid(801f61b4a6c522044a4f45b7d1a0bfc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36524d48ee4e942995d4c8973cc6f4d5') in 0.013243 seconds
+  Import took 0.020142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_action03.FBX
+  artifactKey: Guid(088ea8ea0994c7b4984768db8f973cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_action03.FBX using Guid(088ea8ea0994c7b4984768db8f973cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a9dc438c5ceee5d6a44fa3e6447bce0') in 0.010950 seconds
+  Import took 0.019782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000583 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_run01.FBX
+  artifactKey: Guid(5dd75d800365b484faa67c9070357266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_run01.FBX using Guid(5dd75d800365b484faa67c9070357266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb555cf2b20aaf65aa20c1086915680') in 0.012994 seconds
+  Import took 0.021823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die_action06.FBX
+  artifactKey: Guid(d14a948d8ee282f41be94810b333ed42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die_action06.FBX using Guid(d14a948d8ee282f41be94810b333ed42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a4897c21ddbb2b530f27d861620beec') in 0.012246 seconds
+  Import took 0.018590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_jump_action03.FBX
+  artifactKey: Guid(b38a65559495e8c4eb40081ecdfef1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_jump_action03.FBX using Guid(b38a65559495e8c4eb40081ecdfef1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb78263aced6c0de6009076cd7403c0') in 0.011394 seconds
+  Import took 0.018831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_action02.FBX
+  artifactKey: Guid(966fffc2f10b1a7409c714c362caa742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_action02.FBX using Guid(966fffc2f10b1a7409c714c362caa742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f7f02cec9ac86988f10038f7c10e17') in 0.010252 seconds
+  Import took 0.026408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die_action01.FBX
+  artifactKey: Guid(48f916682f4feca4997acefb9e28ebeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die_action01.FBX using Guid(48f916682f4feca4997acefb9e28ebeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c847f6731c24f77228a13fe1ff82e94') in 0.013469 seconds
+  Import took 0.023139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_jump01.FBX
+  artifactKey: Guid(28eaabff96e669242971374658ef9a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_jump01.FBX using Guid(28eaabff96e669242971374658ef9a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6a6a301a4cbf7a56ba5ecb245bd1611') in 0.014619 seconds
+  Import took 0.022151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_show01.FBX
+  artifactKey: Guid(08631be5676f5bd41b7c91c2b8fda87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_show01.FBX using Guid(08631be5676f5bd41b7c91c2b8fda87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '643eaa741ee726001efccafc1c45d7b0') in 0.012425 seconds
+  Import took 0.025106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_attack02.FBX
+  artifactKey: Guid(e3ee59fa2ceafec458723785597eb9c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_attack02.FBX using Guid(e3ee59fa2ceafec458723785597eb9c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5ae6e7bf07cccb7f14b335e4235ed8e') in 0.012523 seconds
+  Import took 0.019390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die03.FBX
+  artifactKey: Guid(c46d8d7ccd3f42e4485e6ae98cf7b2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die03.FBX using Guid(c46d8d7ccd3f42e4485e6ae98cf7b2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a84488c492ddcaf163210e8372e078') in 0.016390 seconds
+  Import took 0.022745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_defense01.FBX
+  artifactKey: Guid(35a78cc52fa7cb94c990e9b29805a6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_defense01.FBX using Guid(35a78cc52fa7cb94c990e9b29805a6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bad87005cf6e5994c7ea7428f523b82') in 0.013588 seconds
+  Import took 0.021374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_raise01.FBX
+  artifactKey: Guid(81b93f1535dc5e2468c72a1fc69dc2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_raise01.FBX using Guid(81b93f1535dc5e2468c72a1fc69dc2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c44d5b4f76b0332222a611a80da95646') in 0.016343 seconds
+  Import took 0.023186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die_action02.FBX
+  artifactKey: Guid(84c1b8564f236fd458961dfad40849db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die_action02.FBX using Guid(84c1b8564f236fd458961dfad40849db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f77afc70cc28aaa0ac7c539b3a050fa') in 0.012362 seconds
+  Import took 0.019091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_dizzy01.FBX
+  artifactKey: Guid(bd6e2d4a5990b71458b536506a8159a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_dizzy01.FBX using Guid(bd6e2d4a5990b71458b536506a8159a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a77d2258e5fc0ed4cced161d332e3fb') in 0.015024 seconds
+  Import took 0.021972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_jump_action04.FBX
+  artifactKey: Guid(327cd45a90e04ff4aa007424b93e78c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_jump_action04.FBX using Guid(327cd45a90e04ff4aa007424b93e78c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2188302c7976c7ea76ecc75270d1d79b') in 0.012151 seconds
+  Import took 0.020207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001053 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_jump_action02.FBX
+  artifactKey: Guid(8bcaa26926a67a4409ead4b0ed8e06a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_jump_action02.FBX using Guid(8bcaa26926a67a4409ead4b0ed8e06a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '087441c428a9f937f5fcc41a2bacd6f2') in 0.012409 seconds
+  Import took 0.018522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die_action05.FBX
+  artifactKey: Guid(6536273f51553d6459a3bf445ae6a20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die_action05.FBX using Guid(6536273f51553d6459a3bf445ae6a20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fba52071a2363a7c8be0aabb7147c61') in 0.013218 seconds
+  Import took 0.020164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die01.FBX
+  artifactKey: Guid(3f94613e0186eab41a97c43aea38bd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_die01.FBX using Guid(3f94613e0186eab41a97c43aea38bd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a492e682ab41ca6a9c955237c60958a') in 0.012406 seconds
+  Import took 0.025271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_idle01.FBX
+  artifactKey: Guid(ff6665d50186b464d8e0d0b203e5aa7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_idle01.FBX using Guid(ff6665d50186b464d8e0d0b203e5aa7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a471ecc99cb2a224a16ec0bdf58a3111') in 0.018183 seconds
+  Import took 0.025265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_walk01.FBX
+  artifactKey: Guid(dadfd34be620ecf4083b6e7f68ed8a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Fbx/BattleSpider_walk01.FBX using Guid(dadfd34be620ecf4083b6e7f68ed8a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e561aedf55f9867e53c4f6f4d47775e') in 0.011675 seconds
+  Import took 0.036543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.550409 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Material
+  artifactKey: Guid(ba819e97f5c140840b88905f6bc6446d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Material using Guid(ba819e97f5c140840b88905f6bc6446d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be70127905acdc8a364538061c7a7d6a') in 0.004343 seconds
+  Import took 0.018674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056839 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Material/BattleSpider01.mat
+  artifactKey: Guid(5cd5e96723260dc44bba129cbc9a6786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Material/BattleSpider01.mat using Guid(5cd5e96723260dc44bba129cbc9a6786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4368516552852e29435847a6a099a82e') in 0.017579 seconds
+  Import took 0.023026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Material/BattleSpider02__SPEC.tga
+  artifactKey: Guid(7e783261f6dc7574b9eeecb9787d3854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Material/BattleSpider02__SPEC.tga using Guid(7e783261f6dc7574b9eeecb9787d3854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7257d926550e315dba759e137a2490c') in 0.013504 seconds
+  Import took 0.023441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Material/BattleSpider02_N.tga
+  artifactKey: Guid(24fd6bdc7ca8e9f46b37c182a2c06bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Material/BattleSpider02_N.tga using Guid(24fd6bdc7ca8e9f46b37c182a2c06bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad911c96f796318fff5a7838125613f') in 0.030255 seconds
+  Import took 0.036097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Material/BattleSpider01_N_OCC.tga
+  artifactKey: Guid(86b04f5ca2e4a61418cb284fb15e51d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Material/BattleSpider01_N_OCC.tga using Guid(86b04f5ca2e4a61418cb284fb15e51d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4029a108a1aaeb24eedbe53b082c694c') in 0.021885 seconds
+  Import took 0.041092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Material/BattleSpider02_D.tga
+  artifactKey: Guid(838c06a6ca7598e44a303430ea8f418e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Material/BattleSpider02_D.tga using Guid(838c06a6ca7598e44a303430ea8f418e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa1217182bf4459094c32cef6b1828c') in 0.012234 seconds
+  Import took 0.018307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Material/BattleSpider01_N.tga
+  artifactKey: Guid(fe39854ad8c35714c8d2519e3cca2cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Material/BattleSpider01_N.tga using Guid(fe39854ad8c35714c8d2519e3cca2cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fcce0efabacab255f0a24ebc73aef9c') in 0.014886 seconds
+  Import took 0.033332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Material/BattleSpider01_N_SPEC.tga
+  artifactKey: Guid(466984051afb56844a268528634e08f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Material/BattleSpider01_N_SPEC.tga using Guid(466984051afb56844a268528634e08f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf6e6a7e4987e18d081907d3c7ced03') in 0.019428 seconds
+  Import took 0.028241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Material/BattleSpider02.mat
+  artifactKey: Guid(a46d473a4f73d254e8ead4a3230dee91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Material/BattleSpider02.mat using Guid(a46d473a4f73d254e8ead4a3230dee91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feb8e37ccf7fa9faae889f2ada7f02b7') in 0.015136 seconds
+  Import took 0.022708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Material/BattleSpider02__OCC.tga
+  artifactKey: Guid(7ca6516f01051104595880fe4db1cb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Material/BattleSpider02__OCC.tga using Guid(7ca6516f01051104595880fe4db1cb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6369c1d431601d26a5d70a4f58659f05') in 0.023374 seconds
+  Import took 0.032838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Material/BattleSpider01_D.tga
+  artifactKey: Guid(8487a9afedfff5742b8bc19e7f52b894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Material/BattleSpider01_D.tga using Guid(8487a9afedfff5742b8bc19e7f52b894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba044e0eaf604abbb89750fce7f1b6f3') in 0.015935 seconds
+  Import took 0.022237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.260265 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab
+  artifactKey: Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab using Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caa03dfdc07d5b6630734d29dba40cc6') in 0.060285 seconds
+  Import took 0.068387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.850557 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab
+  artifactKey: Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab using Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac4190cdc0c10c3837a2de13eea28c8e') in 0.042006 seconds
+  Import took 0.049057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.482175 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab
+  artifactKey: Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab using Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c793c33fc7a1a676bc1657078efa0f5') in 0.047243 seconds
+  Import took 0.055581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.954586 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab
+  artifactKey: Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab using Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0920667a7973c99e61f1c5a8654c0e7e') in 0.040076 seconds
+  Import took 0.049742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.155595 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab
+  artifactKey: Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab using Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3fc4007c6929a8e075e93bfd142560b') in 0.048457 seconds
+  Import took 0.057365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.572473 seconds.
   path: Assets/Scripts/Drone.cs
   artifactKey: Guid(9e5250c0259f46f4f945d3fdea0b69bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Drone.cs using Guid(9e5250c0259f46f4f945d3fdea0b69bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55349d927cf4613a8ee9ed2ca07eeacd') in 0.063635 seconds
-  Import took 0.069354 seconds .
+Start importing Assets/Scripts/Drone.cs using Guid(9e5250c0259f46f4f945d3fdea0b69bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2be672eb0891b42be0a541cb9d33804c') in 0.023183 seconds
+  Import took 0.029950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 188.962658 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Animator
+  artifactKey: Guid(b3237df50bee56545b95f8bb2f599874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Animator using Guid(b3237df50bee56545b95f8bb2f599874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1524367c0a9f63bacafdd56d2780b948') in 0.007910 seconds
+  Import took 0.015303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.609967 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Animator/BattleSpider.controller
+  artifactKey: Guid(1b15918c7e69d5540bc8551e62606232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Animator/BattleSpider.controller using Guid(1b15918c7e69d5540bc8551e62606232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4719a00dace96475ddc4efbbe5a982ef') in 0.020792 seconds
+  Import took 0.029426 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001484 seconds.
+Registered in 0.002304 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
 UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
 UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
 System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 
 [Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.188 seconds
+- Completed reload, in  1.403 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 229.6 MB.
-System memory in use after: 229.8 MB.
+Unloading 2861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 250.5 MB.
+System memory in use after: 250.4 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3455.
-Total: 2.739503 ms (FindLiveObjects: 0.332331 ms CreateObjectMapping: 0.145072 ms MarkObjects: 2.188482 ms  DeleteObjects: 0.072678 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 136.420156 seconds.
-  path: Assets/Scripts/Spawner.cs
-  artifactKey: Guid(b47fb46d2a4238049b2935b74718b739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Spawner.cs using Guid(b47fb46d2a4238049b2935b74718b739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01121ea050df7f0bfd5233ec97419af1') in 0.004338 seconds
-  Import took 0.008756 seconds .
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3545.
+Total: 3.482200 ms (FindLiveObjects: 0.352400 ms CreateObjectMapping: 0.184900 ms MarkObjects: 2.731400 ms  DeleteObjects: 0.212500 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 86.034395 seconds.
-  path: Assets/Scripts/Camera.cs
-  artifactKey: Guid(680cea7f9a4de224793ed017b4ad722a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Camera.cs using Guid(680cea7f9a4de224793ed017b4ad722a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c911436691be9430a20e16d05851cc2e') in 0.001138 seconds
-  Import took 0.007831 seconds .
+  Time since last request: 646.377396 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab
+  artifactKey: Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab using Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b95d74ccd4fd396949061f7948d5d2ce') in 0.271359 seconds
+  Import took 0.279275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab
+  artifactKey: Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab using Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d12d09681bb1c4b58a586f9e13b124') in 0.041173 seconds
+  Import took 0.048181 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001362 seconds.
+Registered in 0.002563 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
 UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
 UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
 System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 
 [Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.286 seconds
+- Completed reload, in  1.380 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 229.9 MB.
-System memory in use after: 230.1 MB.
+Unloading 2856 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 250.4 MB.
+System memory in use after: 250.3 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3458.
-Total: 2.825780 ms (FindLiveObjects: 0.366243 ms CreateObjectMapping: 0.132920 ms MarkObjects: 2.251760 ms  DeleteObjects: 0.073941 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.055344 seconds.
-  path: Assets/Scripts/CameraScript.cs
-  artifactKey: Guid(680cea7f9a4de224793ed017b4ad722a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/CameraScript.cs using Guid(680cea7f9a4de224793ed017b4ad722a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd44690f172034aef953c4520c47e344b') in 0.005600 seconds
-  Import took 0.011758 seconds .
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3584.
+Total: 3.692900 ms (FindLiveObjects: 0.288500 ms CreateObjectMapping: 0.156200 ms MarkObjects: 3.041700 ms  DeleteObjects: 0.205100 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001315 seconds.
+Registered in 0.002900 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
 UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
 UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
 System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 
 [Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.259 seconds
+- Completed reload, in  2.645 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 230.2 MB.
-System memory in use after: 230.4 MB.
+Unloading 2856 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 250.4 MB.
+System memory in use after: 250.3 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3461.
-Total: 4.291026 ms (FindLiveObjects: 0.434318 ms CreateObjectMapping: 0.192735 ms MarkObjects: 3.494311 ms  DeleteObjects: 0.168669 ms)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3587.
+Total: 5.917100 ms (FindLiveObjects: 0.565800 ms CreateObjectMapping: 0.528000 ms MarkObjects: 4.609200 ms  DeleteObjects: 0.213000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1128.784321 seconds.
-  path: Assets/Scripts/CameraScript.cs
-  artifactKey: Guid(680cea7f9a4de224793ed017b4ad722a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/CameraScript.cs using Guid(680cea7f9a4de224793ed017b4ad722a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c03909d3616eb788625ed08443b8c3e5') in 0.005581 seconds
-  Import took 0.011655 seconds .
+  Time since last request: 553.506201 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab
+  artifactKey: Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab using Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '215d0235012eebde06d03b687580ed5c') in 0.289992 seconds
+  Import took 0.301799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.699898 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab
+  artifactKey: Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab using Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7116b9f81caef0c4295e462ec6309dba') in 0.046924 seconds
+  Import took 0.057980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.871932 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab
+  artifactKey: Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab using Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6389e01ec57aca1a34aa47da5702cd9') in 0.054122 seconds
+  Import took 0.063616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.599353 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab
+  artifactKey: Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab using Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '807f84b4a063ac4ab9c99c2463ecb183') in 0.044902 seconds
+  Import took 0.051503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.431408 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab
+  artifactKey: Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider01.prefab using Guid(647062714461d0442bc749240130a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f0c252b39f290ba9f915eeef678d5c') in 0.044064 seconds
+  Import took 0.051057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.294085 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab
+  artifactKey: Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab using Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6b43e0138a9f91c03c17bd19babf74') in 0.040196 seconds
+  Import took 0.056824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.856689 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab
+  artifactKey: Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab using Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '966abadefab866df1f7015048fdfb1de') in 0.036089 seconds
+  Import took 0.046989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.191715 seconds.
+  path: Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab
+  artifactKey: Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy_creature_Battle Spider/Prefabs/BattleSpider02.prefab using Guid(d90bc4d3f18536d449b192d4a7c33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd349be439ac2278ffe9f803143a756') in 0.048249 seconds
+  Import took 0.055175 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001371 seconds.
+Registered in 0.002602 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
 UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
 UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
 System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 
 [Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.144 seconds
+- Completed reload, in  1.419 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 230.5 MB.
-System memory in use after: 230.7 MB.
+Unloading 2856 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 250.6 MB.
+System memory in use after: 250.5 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3464.
-Total: 2.941209 ms (FindLiveObjects: 0.306738 ms CreateObjectMapping: 0.148293 ms MarkObjects: 2.409049 ms  DeleteObjects: 0.075760 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 902.345818 seconds.
-  path: Assets/Environment Models/Medieval_Village/Mods/Medieval_Chimney_Small.FBX
-  artifactKey: Guid(5117415101b4ca34eb06f6c4ccdd33b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Medieval_Village/Mods/Medieval_Chimney_Small.FBX using Guid(5117415101b4ca34eb06f6c4ccdd33b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1998e68a714ffdbf1d0d940a4f977c6') in 1.639032 seconds
-  Import took 1.644998 seconds .
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3626.
+Total: 4.756100 ms (FindLiveObjects: 0.681200 ms CreateObjectMapping: 0.219800 ms MarkObjects: 3.611600 ms  DeleteObjects: 0.242300 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/Environment Models/Medieval_Village/Mods/Medieval_StoneFloor_D.FBX
-  artifactKey: Guid(2dcd574a02b4caf4c8a1a2c426f2721b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Medieval_Village/Mods/Medieval_StoneFloor_D.FBX using Guid(2dcd574a02b4caf4c8a1a2c426f2721b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a042a3fd8a9872c48c99731def8a0ce') in 0.104176 seconds
-  Import took 0.110508 seconds .
+  Time since last request: 107.005748 seconds.
+  path: Assets/maths.png
+  artifactKey: Guid(cb1ccb19f051c164bb3f3b9f476b4c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/maths.png using Guid(cb1ccb19f051c164bb3f3b9f476b4c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0539fff8d7a0dc57d3b7c9c636172110') in 0.091352 seconds
+  Import took 0.110076 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/Environment Models/Medieval_Village/Mods/Medieval_Chimney_Small_Half.FBX
-  artifactKey: Guid(985240cdcfb744f498f897c7affab12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Medieval_Village/Mods/Medieval_Chimney_Small_Half.FBX using Guid(985240cdcfb744f498f897c7affab12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da90913a89fd59d7aed434e5a0a7ab51') in 0.080462 seconds
-  Import took 0.086324 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Environment Models/Medieval_Village/Mods/Medieval_Foliage_IvyVines.FBX
-  artifactKey: Guid(e76d94a405b39a54682588c753f5bb83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Medieval_Village/Mods/Medieval_Foliage_IvyVines.FBX using Guid(e76d94a405b39a54682588c753f5bb83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8af953ba0a071df14c605715eca3d0') in 0.520314 seconds
-  Import took 0.526128 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/Environment Models/Medieval_Village/Mods/Medieval_RoofTiles_TopCorner.FBX
-  artifactKey: Guid(6ad49aa469aecae4aac7194e5450ee35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Medieval_Village/Mods/Medieval_RoofTiles_TopCorner.FBX using Guid(6ad49aa469aecae4aac7194e5450ee35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18cf335da5eb8487bdc13af0ff14e4eb') in 0.086205 seconds
-  Import took 0.092020 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/Environment Models/Medieval_Village/Mods/Medieval_RoofWall_MedA.FBX
-  artifactKey: Guid(32a98b25cba5f6e4e90c2f9c75531fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Medieval_Village/Mods/Medieval_RoofWall_MedA.FBX using Guid(32a98b25cba5f6e4e90c2f9c75531fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2dee4c917a4695b7ef1d4e967538d85') in 0.112863 seconds
-  Import took 0.118930 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000329 seconds.
-  path: Assets/Environment Models/Medieval_Village/Mods/Medieval_Assembly_Rock_C.FBX
-  artifactKey: Guid(816c2e83b9868a64ab396ca8c2830b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Medieval_Village/Mods/Medieval_Assembly_Rock_C.FBX using Guid(816c2e83b9868a64ab396ca8c2830b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08b3c5cf8f12765b88401d4cad84396') in 0.080515 seconds
-  Import took 0.086772 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/Environment Models/Medieval_Village/Mods/Medieval_StoneFloor_E.FBX
-  artifactKey: Guid(a2437e9d52f873b49af4ba67cef60ca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Medieval_Village/Mods/Medieval_StoneFloor_E.FBX using Guid(a2437e9d52f873b49af4ba67cef60ca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16a7ea69377134fa334bedab2235266') in 0.052057 seconds
-  Import took 0.058106 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.963936 seconds.
-  path: Assets/Environment Models/Medieval_Village/Documentation/ASTROFISH GAMES_Get creative with us on our Discord! Follow the link in 'Discord.txt'.prefab
-  artifactKey: Guid(dd2464e4250b49040ae537c9a60429aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Medieval_Village/Documentation/ASTROFISH GAMES_Get creative with us on our Discord! Follow the link in 'Discord.txt'.prefab using Guid(dd2464e4250b49040ae537c9a60429aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdf01d03ddba6b8ef725f9cc98ed5a8c') in 0.089554 seconds
-  Import took 0.095060 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/Environment Models/Medieval_Village/AstroCommon/Default_Materials/Materials/AstrofishGamesDiscord.png
-  artifactKey: Guid(ae2631e12ef5d484391568bf3eea13fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Medieval_Village/AstroCommon/Default_Materials/Materials/AstrofishGamesDiscord.png using Guid(ae2631e12ef5d484391568bf3eea13fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10cf60927236e8bc39500461d0091332') in 0.212802 seconds
-  Import took 0.218653 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Environment Models/Viking Village/Models/Props/prop_scaffold_01.fbx
-  artifactKey: Guid(816dd4e12137b7e4c9c77561996d31aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Viking Village/Models/Props/prop_scaffold_01.fbx using Guid(816dd4e12137b7e4c9c77561996d31aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '695002d54f848b08bfe156e960e0fd0f') in 0.099245 seconds
-  Import took 0.105024 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000378 seconds.
-  path: Assets/Environment Models/ExampleAssets/Models/Workbench.fbx
-  artifactKey: Guid(efe9381559c516743bd05cef82f39ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/ExampleAssets/Models/Workbench.fbx using Guid(efe9381559c516743bd05cef82f39ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97217d6a54e6f9fecd2c544f104457ed') in 0.159868 seconds
-  Import took 0.165668 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/Presets/Defaults/AudioDecompressOnLoad.preset
-  artifactKey: Guid(e7689051185d12f4298e1ebb2693a29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Presets/Defaults/AudioDecompressOnLoad.preset using Guid(e7689051185d12f4298e1ebb2693a29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d1cf06e67cef88edace491fed66d7e') in 0.003695 seconds
-  Import took 0.009521 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Environment Models/Medieval_Village/AstroCommon/Default_Materials/Materials/AstrofishGamesDiscord_Info.mat
-  artifactKey: Guid(011ea9f10944e8d42ba919e1b46faeef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Medieval_Village/AstroCommon/Default_Materials/Materials/AstrofishGamesDiscord_Info.mat using Guid(011ea9f10944e8d42ba919e1b46faeef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a327d027b4cef00cfcc3beaffc7d36aa') in 0.051894 seconds
-  Import took 0.059730 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Environment Models/Viking Village/Models/Buildings/build_boat_01.FBX
-  artifactKey: Guid(c0e3cc442127dbd49821a91bcca81459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Viking Village/Models/Buildings/build_boat_01.FBX using Guid(c0e3cc442127dbd49821a91bcca81459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb96e96ef4b00d4293b0522b46fb38d6') in 0.116146 seconds
-  Import took 0.123420 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/Environment Models/Viking Village/Models/Buildings/build_boat_01_low.FBX
-  artifactKey: Guid(667cb25aa82724e06beab05368c07b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Environment Models/Viking Village/Models/Buildings/build_boat_01_low.FBX using Guid(667cb25aa82724e06beab05368c07b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70935c5b7509f97927b03cad421b30ea') in 0.208400 seconds
-  Import took 0.215869 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003293 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.60 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
-
-[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  4.349 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 1.21 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 261.1 MB.
-System memory in use after: 261.3 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3552.
-Total: 7.754135 ms (FindLiveObjects: 0.648201 ms CreateObjectMapping: 0.367579 ms MarkObjects: 6.522985 ms  DeleteObjects: 0.212370 ms)
+  Time since last request: 58.606271 seconds.
+  path: Assets/maths.png
+  artifactKey: Guid(cb1ccb19f051c164bb3f3b9f476b4c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/maths.png using Guid(cb1ccb19f051c164bb3f3b9f476b4c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61a8df8ded0da2bb27afe4da65ac178') in 0.016781 seconds
+  Import took 0.045544 seconds .
 
