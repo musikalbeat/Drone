@@ -61,8 +61,8 @@ public class Drone : MonoBehaviour
 
                 while (IsPathBlocked())
                 {
-                    GetDestination();
                     anim.SetBool("run", false);
+                    GetDestination();
                 }
 
                 var targetToAggro = CheckForAggro();
@@ -97,11 +97,13 @@ public class Drone : MonoBehaviour
             {
                 if (_target != null)
                 {
+                    anim.SetBool("run", false);
+                    anim.SetBool("attack", true);
+
+                    StartCoroutine(delayAnim(2));
+
                     Destroy(_target.gameObject);
                 }
-
-                anim.SetBool("run", false);
-                anim.SetBool("attack", true);
 
                 _currentState = DroneState.Wander;
                 break;
@@ -179,5 +181,10 @@ public class Drone : MonoBehaviour
         }
 
         return null;
+    }
+
+    IEnumerator delayAnim(float delay = 0)
+    {
+        yield return new WaitForSeconds(delay);
     }
 }
